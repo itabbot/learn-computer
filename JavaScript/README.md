@@ -19,4 +19,4 @@ JavaScript，简称 JS，是一种[高级的](../术语表/高级语言.md)、[�
 [^ecma]: 欧洲计算机制造商协会，详见：[官网](https://www.ecma-international.org/)、[百度百科](https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%88%B6%E9%80%A0%E5%95%86%E5%8D%8F%E4%BC%9A?fromtitle=ECMA&fromid=1499618)、[中文维基](https://zh.wikipedia.org/wiki/Ecma%E5%9B%BD%E9%99%85)、[英文维基](https://en.wikipedia.org/wiki/Ecma_International)。
 [^brendaneich]: JavaScript 的发明人，详见：[个人博客](https://brendaneich.com/)、[百度百科](https://baike.baidu.com/item/%E5%B8%83%E5%85%B0%E7%99%BB%C2%B7%E8%89%BE%E5%A5%87?fromtitle=Brendan+Eich&fromid=561441)、[中文维基](https://zh.wikipedia.org/wiki/%E5%B8%83%E8%98%AD%E7%99%BB%C2%B7%E8%89%BE%E5%85%8B)、[英文维基](https://en.wikipedia.org/wiki/Brendan_Eich)。
 [^req]: 主要指企业对语言的应用情况以及对人才的需求情况。
-[^compat]: 参考 [kangax](https://github.com/kangax) 的[兼容表](https://kangax.github.io/compat-table)。
+[^compat]: 参考 [kangax](https://github.com/kangax) 的 ECMAScript [兼容表](https://kangax.github.io/compat-table)。
