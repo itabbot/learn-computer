@@ -5,35 +5,35 @@
 
 ## 目录
 
-1. Scope
-2. Conformance
-3. Normative references
-4. Overview
-5. Notational Conventions
-6. ECMAScript Data Types and Values
-7. Abstract Operations
-8. Executable Code and Execution Contexts
-9. Ordinary and Exotic Objects Behaviours
-10. ECMAScript Language: Source Code
-11. ECMAScript Language: Lexical Grammar
-12. ECMAScript Language: Expressions
-13. ECMAScript Language: Statements and Declarations
-14. ECMAScript Language: Functions and Classes
-15. ECMAScript Language: Scripts and Modules
-16. Error Handling and Language Extensions
-17. ECMAScript Standard Built-in Objects
-18. The Global Object
-19. Fundamental Objects
-20. Numbers and Dates
-21. Text Processing
-22. Indexed Collections
-23. Keyed Collection
-24. Structured Data
-25. Control Abstraction Objects
-26. Reflection
-27. Annex A (informative) Grammar Summary
-28. Annex B (normative) Additional ECMAScript Features for Web Browsers
-29. Annex C (informative) The Strict Mode of ECMAScript
-30. Annex D (informative) Corrections and Clarifications in ECMAScript 2015 with Possible Compatibility Impact
-31. Annex E (informative) Additions and Changes That Introduce Incompatibilities with Prior Editions
-32. Bibliography
+1. 作用范围（Scope）
+2. 符合性（Conformance）
+3. 参考标准（Normative references）
+4. 概述（Overview）
+5. 记法约定（Notational Conventions）
+6. ECMAScript 数据类型和值（ECMAScript Data Types and Values）
+7. 抽象操作（Abstract Operations）
+8. 可执行代码和执行上下文（Executable Code and Execution Contexts）
+9. 普通和奇异对象行为（Ordinary and Exotic Objects Behaviours）
+10. ECMAScript 语言：源代码（ECMAScript Language: Source Code）
+11. ECMAScript 语言：词汇语法（ECMAScript Language: Lexical Grammar）
+12. ECMAScript 语言：表达式（ECMAScript Language: Expressions）
+13. ECMAScript 语言：语句和声明（ECMAScript Language: Statements and Declarations）
+14. ECMAScript 语言：函数和类（ECMAScript Language: Functions and Classes）
+15. ECMAScript 语言：脚本和模块（ECMAScript Language: Scripts and Modules）
+16. 错误处理和语言扩展（Error Handling and Language Extensions）
+17. ECMAScript 标准内置对象（ECMAScript Standard Built-in Objects）
+18. 全局对象（The Global Object）
+19. 基本对象（Fundamental Objects）
+20. 数字和日期（Numbers and Dates）
+21. 文本处理（Text Processing）
+22. 索引集合（Indexed Collections）
+23. 键集合（Keyed Collection）
+24. 结构化数据（Structured Data）
+25. 控制抽象对象（Control Abstraction Objects）
+26. 反射（Reflection）
+27. 附件 A (信息) 语法摘要（Annex A (informative) Grammar Summary）
+28. 附录 B (规范) 用于 Web 浏览器的 ECMAScript 附加特性（Annex B (normative) Additional ECMAScript Features for Web Browsers）
+29. 附件 C (信息) ECMAScript 的严格模式（Annex C (informative) The Strict Mode of ECMAScript）
+30. 附件 D (信息) ECMAScript 2015 中的可能的兼容性影响的更正和澄清（Annex D (informative) Corrections and Clarifications in ECMAScript 2015 with Possible Compatibility Impact）
+31. 附录 E (信息) 引入与以前版本不兼容的添加和更改（Annex E (informative) Additions and Changes That Introduce Incompatibilities with Prior Editions）
+32. 参考书目（Bibliography）
