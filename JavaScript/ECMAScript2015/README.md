@@ -1,9 +1,9 @@
 # ECMAScript 2015（ES6）
 
 官方资源： [ECMA-262 规格列表](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)、[ES6 在线版](https://262.ecma-international.org/6.0)、[ES6-PDF](https://www.ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf)。  
-转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate.pdf)（金山翻译）。
+转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate.pdf)（金山翻译[^trans]）。
 
-## 目录
+## 目录[^catalog]
 
 1. 作用范围（Scope）
 2. 符合性（Conformance）
@@ -37,3 +37,6 @@
 30. 附件 D (信息) ECMAScript 2015 中的可能的兼容性影响的更正和澄清（Annex D (informative) Corrections and Clarifications in ECMAScript 2015 with Possible Compatibility Impact）
 31. 附录 E (信息) 引入与以前版本不兼容的添加和更改（Annex E (informative) Additions and Changes That Introduce Incompatibilities with Prior Editions）
 32. 参考书目（Bibliography）
+
+[^trans]: 为机器翻译而非人工翻译，所以会存在翻译不准确的情况。
+[^catalog]: 同规格文档中的目录。
