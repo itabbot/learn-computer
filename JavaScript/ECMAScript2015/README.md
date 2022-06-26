@@ -1,7 +1,7 @@
 # ECMAScript 2015（ES6）
 
 官方资源： [ECMA-262 规格列表](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)、[ES6 在线版](https://262.ecma-international.org/6.0)、[ES6-PDF](https://www.ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf)。  
-转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate.pdf)（金山翻译[^trans]）。
+转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate_kd.pdf)（金山翻译[^trans]）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate_yd.pdf)（有道翻译[^trans]）。
 
 本系列以官方规格文件目录作为学习清单，着重学习语言的使用和原理。目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到官方在线版对应章节。
 
