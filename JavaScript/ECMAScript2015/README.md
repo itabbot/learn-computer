@@ -7,9 +7,9 @@
 
 ## 目录
 
-1. 作用范围（[Scope](https://262.ecma-international.org/6.0/#sec-scope)）
-2. 符合性（[Conformance](https://262.ecma-international.org/6.0/#sec-conformance)）
-3. 参考标准（[Normative references](https://262.ecma-international.org/6.0/#sec-normative-references)）
+1. 作用范围（Scope）
+2. 符合性（Conformance）
+3. 参考标准（Normative references）
 4. 概述（Overview）
 5. 记法约定（Notational Conventions）
 6. ECMAScript 数据类型和值（ECMAScript Data Types and Values）
