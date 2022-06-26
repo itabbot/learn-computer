@@ -3,7 +3,9 @@
 官方资源： [ECMA-262 规格列表](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)、[ES6 在线版](https://262.ecma-international.org/6.0)、[ES6-PDF](https://www.ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf)。  
 转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate.pdf)（金山翻译[^trans]）。
 
-## 目录[^catalog]
+本系列以官方规格文件目录作为学习清单，着重学习语言的使用和原理。目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到官方在线版对应章节。
+
+## 目录
 
 1. 作用范围（[Scope](https://262.ecma-international.org/6.0/#sec-scope)）
 2. 符合性（[Conformance](https://262.ecma-international.org/6.0/#sec-conformance)）
@@ -38,5 +40,4 @@
 31. 附录 E (信息) 引入与以前版本不兼容的添加和更改（Annex E (informative) Additions and Changes That Introduce Incompatibilities with Prior Editions）
 32. 参考书目（Bibliography）
 
-[^trans]: 为机器翻译而非人工翻译，所以会存在翻译不准确的情况。
-[^catalog]: 同规格文档中的目录。
+[^trans]: 为机器翻译而非人工翻译，因此可能会存在翻译不准确的情况。
