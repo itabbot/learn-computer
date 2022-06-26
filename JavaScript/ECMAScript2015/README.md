@@ -40,4 +40,4 @@
 31. 附录 E (信息) 引入与以前版本不兼容的添加和更改（Annex E (informative) Additions and Changes That Introduce Incompatibilities with Prior Editions）
 32. 参考书目（Bibliography）
 
-[^trans]: 为机器翻译而非人工翻译，因此可能会存在翻译不准确的情况。
+[^trans]: 是机器翻译而非人工翻译，因此可能会存在翻译不准确的情况。
