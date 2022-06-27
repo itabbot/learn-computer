@@ -7,7 +7,7 @@
 
 ## 目录
 
-1. 作用范围（Scope）
+1. [作用范围](./1.Score)（[Scope](https://262.ecma-international.org/6.0/#sec-scope)）
 2. 符合性（Conformance）
 3. 参考标准（Normative references）
 4. 概述（Overview）
