@@ -2,16 +2,9 @@
 
 [官方在线版](https://262.ecma-international.org/6.0/#sec-scope)
 
-原文：
-
 ```
-This Standard defines the ECMAScript 2015 general purpose programming language.
-```
-
-机器翻译：
-
-```
-本标准定义了 ECMAScript 2015 通用编程语言。
+原文：This Standard defines the ECMAScript 2015 general purpose programming language.
+机器翻译：本标准定义了 ECMAScript 2015 通用编程语言。
 ```
 
 ## 学习理解
