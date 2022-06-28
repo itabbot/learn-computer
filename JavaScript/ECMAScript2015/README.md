@@ -8,7 +8,7 @@
 ## 目录
 
 1. [作用范围](./1.Score)（[Scope](https://262.ecma-international.org/6.0/#sec-scope)）
-2. 符合性（Conformance）
+2. [符合性](./2.Conformance)（[Conformance](https://262.ecma-international.org/6.0/#sec-conformance)）
 3. 参考标准（Normative references）
 4. 概述（Overview）
 5. 记法约定（Notational Conventions）
