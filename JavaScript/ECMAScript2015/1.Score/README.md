@@ -1,4 +1,4 @@
-# 作用范围（Scope）
+# 1. 作用范围（Scope）
 
 [官方在线版](https://262.ecma-international.org/6.0/#sec-scope)
 

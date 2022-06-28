@@ -1,4 +1,4 @@
-# 参考标准（Normative references）
+# 3. 参考标准（Normative references）
 
 [官方在线版](https://262.ecma-international.org/6.0/#sec-normative-references)
 

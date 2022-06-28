@@ -1,4 +1,4 @@
-# 符合性（Conformance）
+# 2. 符合性（Conformance）
 
 [官方在线版](https://262.ecma-international.org/6.0/#sec-conformance)
 
