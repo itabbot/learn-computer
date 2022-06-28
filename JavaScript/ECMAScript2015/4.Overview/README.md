@@ -51,6 +51,6 @@
   - 4.3.31 方法（method）
   - 4.3.32 内置方法（built-in method）
   - 4.3.33 属性（attribute）
-  - 4.3.34 自由特性（own property）
+  - 4.3.34 自有特性（own property）
   - 4.3.35 继承的特性（inherited property）
 - 4.4 本规范的组织（Organization of This Specification）
