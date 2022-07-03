@@ -14,7 +14,7 @@
 ## 子目录
 
 - 4.1 [Web 脚本](./4.1.Web-Scripting)（[Web Scripting](https://262.ecma-international.org/6.0/#sec-web-scripting)）
-- 4.2 ECMAScript 概述（ECMAScript Overview）
+- 4.2 [ECMAScript 概述](./4.2.ECMAScript-Overview)（[ECMAScript Overview](https://262.ecma-international.org/6.0/#sec-ecmascript-overview)）
   - 4.2.1 对象（Objects）
   - 4.2.2 ECMAScript 的严格变体（The Strict Variant of ECMAScript）
 - 4.3 术语和定义（Terms and definitions）
