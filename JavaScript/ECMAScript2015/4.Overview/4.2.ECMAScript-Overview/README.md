@@ -42,7 +42,7 @@ property 和 attribute 翻译为中文都是 “属性” 的意思，但是在 
 Object.defineProperty ( O, P, Attributes )
 ```
 
-以下是原文对 property 和 attribute 的相关描述：
+以下是原文对 property 和 attribute 的相关描述，及其机器翻译：
 
 > In ECMAScript, an object is a collection of zero or more properties each with attributes that determine how each property can be used —— for example, when the Writable attribute for a property is set to false, any attempt by executed ECMAScript code to assign a different value to the property fails.
 
