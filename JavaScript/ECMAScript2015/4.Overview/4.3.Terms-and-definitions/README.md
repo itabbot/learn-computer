@@ -8,4 +8,4 @@
 
 ### 4.3.1 类型（type）
 
-本规范 [第六章](https://262.ecma-international.org/6.0/#sec-ecmascript-data-types-and-values) 中定义的一组数据值。
+本规范 [第六章](https://262.ecma-international.org/6.0/#sec-ecmascript-data-types-and-values) 中定义的各种数据类型。
