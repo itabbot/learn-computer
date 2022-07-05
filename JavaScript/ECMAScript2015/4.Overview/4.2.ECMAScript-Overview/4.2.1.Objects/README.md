@@ -80,6 +80,7 @@ Parent.prototype.property3 = 33;
 const son = new Parent();
 son.property3 = 333;
 son.property4 = 444;
+
 // 以下语句会输出：1 22 333 444
 console.log(son.property1, son.property2, son.property3, son.property4);
 ```
