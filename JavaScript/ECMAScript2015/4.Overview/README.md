@@ -19,7 +19,7 @@
   - 4.2.2 [ECMAScript 的严格变体](./4.2.ECMAScript-Overview/4.2.2.The-Strict-Variant-of-ECMAScript)（[The Strict Variant of ECMAScript](https://262.ecma-international.org/6.0/#sec-strict-variant-of-ecmascript)）
 - 4.3 [术语和定义](./4.3.Terms-and-definitions)（[Terms and definitions](https://262.ecma-international.org/6.0/#sec-terms-and-definitions)）
   - 4.3.1 [类型](./4.3.Terms-and-definitions#431-%E7%B1%BB%E5%9E%8Btype)（[type](https://262.ecma-international.org/6.0/#sec-type)）
-  - 4.3.2 原始值（primitive value）
+  - 4.3.2 原始值（[primitive value](https://262.ecma-international.org/6.0/#sec-primitive-value)）
   - 4.3.3 对象（object）
   - 4.3.4 构造函数（constructor）
   - 4.3.5 原型（prototype）
