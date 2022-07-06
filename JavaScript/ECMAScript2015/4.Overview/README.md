@@ -22,7 +22,7 @@
   - 4.3.2 [原始值](./4.3.Terms-and-definitions#432-原始值primitive-value)（[primitive value](https://262.ecma-international.org/6.0/#sec-primitive-value)）
   - 4.3.3 [对象](./4.3.Terms-and-definitions#433-对象object)（[object](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-object)）
   - 4.3.4 [构造函数](./4.3.Terms-and-definitions#434-构造函数constructor)（[constructor](https://262.ecma-international.org/6.0/#sec-constructor)）
-  - 4.3.5 原型（prototype）
+  - 4.3.5 [原型](./4.3.Terms-and-definitions#435-原型prototype)（[prototype](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-prototype)）
   - 4.3.6 普通的对象（ordinary object）
   - 4.3.7 异质对象（exotic object）
   - 4.3.8 标准对象（standard object）
