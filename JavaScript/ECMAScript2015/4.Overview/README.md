@@ -25,8 +25,8 @@
   - 4.3.5 [原型](./4.3.Terms-and-definitions#435-原型prototype)（[prototype](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-prototype)）
   - 4.3.6 [普通对象](./4.3.Terms-and-definitions#436-普通对象ordinary-object)（[ordinary object](https://262.ecma-international.org/6.0/#sec-ordinary-object)）
   - 4.3.7 [异质对象](./4.3.Terms-and-definitions#437-异质对象exotic-object)（[exotic object](https://262.ecma-international.org/6.0/#sec-exotic-object)）
-  - 4.3.8 标准对象（standard object）
-  - 4.3.9 内置对象（built-in object）
+  - 4.3.8 标准对象（[standard object](https://262.ecma-international.org/6.0/#sec-standard-object)）
+  - 4.3.9 内置对象（[built-in object](https://262.ecma-international.org/6.0/#sec-built-in-object)）
   - 4.3.10 未定义的值（undefined value）
   - 4.3.11 未定义的类型（Undefined type）
   - 4.3.12 空值（null value）
