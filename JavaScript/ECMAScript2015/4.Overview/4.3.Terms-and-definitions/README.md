@@ -22,7 +22,7 @@ Object 类型的数据。
 
 对象是属性的集合，只有一个原型对象，且原型也可能是空值。
 
-关于对象、构造函数和原型请查阅[前面章节的学习](../4.2.ECMAScript-Overview/4.2.1.Objects)。
+关于对象、构造函数和原型请查阅前面学习的[第 4.2.1 章节](../4.2.ECMAScript-Overview/4.2.1.Objects)。
 
 ### 4.3.4 构造函数（constructor）
 
