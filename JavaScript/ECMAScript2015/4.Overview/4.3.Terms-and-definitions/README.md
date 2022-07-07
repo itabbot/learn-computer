@@ -41,3 +41,34 @@ Object 类型的数据。
 - 添加到构造函数原型属性中的属性，会被共享到所有构造函数的实例对象。
 
 - 可以使用 [Object.create](https://262.ecma-international.org/6.0/#sec-object.create) 内置方法显式地指定原型来创建一个新对象。
+
+### 4.3.6 普通对象（ordinary object）
+
+具有所有 “基本内部方法” “默认行为” 的对象。和 “异质对象” 相对。
+
+“内部方法” 是指一组定义了对象在运行时行为的方法，在本规范中使用双方括号 “[[]]” 括起来的名称来标识。“基本内部方法” 是本规范定义的一组每个对象都必须拥有的内部方法。详情请查阅[第 6.1.7.2 章节](https://262.ecma-international.org/6.0/#sec-object-internal-methods-and-internal-slots)。
+
+然而，并非所有对象都必须为这些 “基本内部方法” 使用相同的算法，即 “非默认行为”。这些不具有一个或多个 “基本内部方法” “默认行为” 的对象则是 “异质对象”。
+
+Array 对象就是一种异质对象，比如设置 Array 对象的 length 属性可以从对象中删除属性，但是 length 属性其实只是一个普通的数据属性。这种行为是通过重写 [[DefineOwnProperty]] 内部方法来实现的。详情请参阅[第 9.4.2 章节](https://262.ecma-international.org/6.0/#sec-array-exotic-objects)。以下是示例代码：
+
+```javascript
+// 定义一个数组对象。
+const arr = [0, 1, 2, 3];
+
+// 以下语句输出：[ 0, 1, 2, 3 ]
+console.log(arr);
+
+// 设置数组的长度为 1
+// 此时索引值大于等于 1 的元素均被删除
+arr.length = 1;
+
+// 以下语句输出：[ 0 ]
+console.log(arr);
+```
+
+### 4.3.7 异质对象（exotic object）
+
+不具有一个或多个 “基本内部方法” “默认行为” 的对象。
+
+在 ECMAScript 中，对象不是普通对象就是异质对象。参阅上述 4.3.6 章节的描述。
