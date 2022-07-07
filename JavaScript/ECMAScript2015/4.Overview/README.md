@@ -28,7 +28,7 @@
   - 4.3.8 [标准对象](./4.3.Terms-and-definitions#438-标准对象standard-object)（[standard object](https://262.ecma-international.org/6.0/#sec-standard-object)）
   - 4.3.9 [内置对象](./4.3.Terms-and-definitions#439-内置对象built-in-object)（[built-in object](https://262.ecma-international.org/6.0/#sec-built-in-object)）
   - 4.3.10 [未定义值](./4.3.Terms-and-definitions#4310-未定义值undefined-value)（[undefined value](https://262.ecma-international.org/6.0/#sec-undefined-value)）
-  - 4.3.11 [未定义类型](./4.Overview/4.3.Terms-and-definitions#4311-未定义类型undefined-type)（[Undefined type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-undefined-type)）
+  - 4.3.11 [未定义类型](./4.3.Terms-and-definitions#4311-未定义类型undefined-type)（[Undefined type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-undefined-type)）
   - 4.3.12 [空值](./4.3.Terms-and-definitions#4312-空值null-value)（[null value](https://262.ecma-international.org/6.0/#sec-null-value)）
   - 4.3.13 [空类型](./4.3.Terms-and-definitions#4313-空类型null-type)（[Null type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-null-type)）
   - 4.3.14 布尔值（Boolean value）
