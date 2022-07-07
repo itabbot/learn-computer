@@ -88,3 +88,19 @@ console.log(arr);
 - 所有的标准对象都是内置对象。
 
 - “ECMAScript 实现” 可以指定并提供其他类型的内置对象，比如浏览器提供的 DOM。
+
+### 4.3.10 未定义值（undefined value）
+
+当变量未被赋值时使用的原始值 `undefined`。
+
+### 4.3.11 未定义类型（Undefined type）
+
+其唯一值为 “`undefined`” 值的类型。
+
+### 4.3.12 空值（null value）
+
+有意不包含任何对象值的原始值。
+
+### 4.3.13 空类型（Null type）
+
+其唯一值为 “`null`” 值的类型。

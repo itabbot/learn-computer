@@ -27,10 +27,10 @@
   - 4.3.7 [异质对象](./4.3.Terms-and-definitions#437-异质对象exotic-object)（[exotic object](https://262.ecma-international.org/6.0/#sec-exotic-object)）
   - 4.3.8 [标准对象](./4.3.Terms-and-definitions#438-标准对象standard-object)（[standard object](https://262.ecma-international.org/6.0/#sec-standard-object)）
   - 4.3.9 [内置对象](./4.3.Terms-and-definitions#439-内置对象built-in-object)（[built-in object](https://262.ecma-international.org/6.0/#sec-built-in-object)）
-  - 4.3.10 未定义的值（undefined value）
-  - 4.3.11 未定义的类型（Undefined type）
-  - 4.3.12 空值（null value）
-  - 4.3.13 空类型（Null type）
+  - 4.3.10 未定义值（[undefined value](https://262.ecma-international.org/6.0/#sec-undefined-value)）
+  - 4.3.11 未定义类型（[Undefined type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-undefined-type)）
+  - 4.3.12 空值（[null value](https://262.ecma-international.org/6.0/#sec-null-value)）
+  - 4.3.13 空类型（[Null type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-null-type)）
   - 4.3.14 布尔值（Boolean value）
   - 4.3.15 布尔类型（Boolean type）
   - 4.3.16 布尔对象（Boolean object）
