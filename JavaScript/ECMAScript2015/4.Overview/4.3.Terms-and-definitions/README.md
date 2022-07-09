@@ -104,3 +104,19 @@ console.log(arr);
 ### 4.3.13 空类型（Null type）
 
 其唯一值为 “`null`” 值的类型。
+
+### 4.3.14 布尔值（Boolean value）
+
+Boolean 类型的数据值。
+
+总共只有两个布尔值：`true` 和 `false`。
+
+### 4.3.15 布尔类型（Boolean type）
+
+由基本值 `true` 和 `false` 组成的类型。
+
+### 4.3.16 布尔对象（Boolean object）
+
+标准内置 Boolean 构造函数的实例。
+
+布尔对象可以被强制转换为布尔值。
