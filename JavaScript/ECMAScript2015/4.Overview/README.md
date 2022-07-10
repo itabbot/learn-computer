@@ -35,7 +35,7 @@
   - 4.3.15 [布尔类型](./4.3.Terms-and-definitions#4315-布尔类型boolean-type)（[Boolean type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-boolean-type)）
   - 4.3.16 [布尔对象](./4.3.Terms-and-definitions#4316-布尔对象boolean-object)（[Boolean object](https://262.ecma-international.org/6.0/#sec-boolean-object)）
   - 4.3.17 [字符串值](./4.3.Terms-and-definitions#4317-字符串值string-value)（[String value](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-string-value)）
-  - 4.3.18 字符串类型（String type）
+  - 4.3.18 [字符串类型](./4.3.Terms-and-definitions#4318-字符串类型string-type)（[String type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-string-type)）
   - 4.3.19 字符串对象（String object）
   - 4.3.20 数值（Number value）
   - 4.3.21 数字类型（Number type）
