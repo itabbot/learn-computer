@@ -154,3 +154,49 @@ Boolean 类型的数据值。
 ### 4.3.24 非数值（NaN）
 
 IEEE 754-2008 标准中的特殊数值 “Not-a-Number” ，即 “非数值”。
+
+### 4.3.25 符号值（Symbol value）
+
+表示一个唯一的、非字符串的对象属性名的原始值。
+
+ECMAScript 5 的对象属性名都是字符串，这容易造成属性名的冲突，ECMAScript 6 引入 Symbol 数据类型以解决这个问题。以下示例解释了这一点：
+
+```javascript
+// 直接使用字符串类型的属性名给对象的属性设置值
+// 容易因不知情而覆盖原有的属性值
+const obj = {
+  property: 1,
+};
+obj.property = 2;
+
+// 初始化对象属性时使用 Symbol 属性名以防止被覆盖
+const symb = Symbol();
+const obj = {
+  [symb]: 1,
+};
+obj.property = 2;
+
+// 添加属性时使用 Symbol 属性名以防止覆盖已有的属性值
+const symb2 = Symbol();
+obj[symb2] = 3;
+```
+
+### 4.3.26 符号类型（Symbol type）
+
+所有可能的符号值的集合。
+
+### 4.3.27 符号对象（Symbol object）
+
+标准内置构造函数 Symbol 的实例。
+
+需要注意的是：从 ECMAScript 6 开始不再支持使用 new 运算符创建原始数据类型的显式包装器对象，这意味着无法使用 `new Symbol()` 来创建一个 Symbol 对象。当然，为了向前兼容，现有的原始包装器对象仍可被创建，如 new Boolean、new String 以及 new Number 等。
+
+如果真的想创建一个 Symbol 包装器对象，可以使用 Object 函数，比如：
+
+```javascript
+const sym = Symbol("foo");
+const symObj = Object(sym);
+
+// 或者
+const symObj2 = Object.create(Symbol.prototype);
+```
