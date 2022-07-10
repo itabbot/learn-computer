@@ -42,9 +42,9 @@
   - 4.3.22 [数字对象](./4.3.Terms-and-definitions#4322-数字对象number-object)（[Number object](https://262.ecma-international.org/6.0/#sec-number-object)）
   - 4.3.23 [无穷](./4.3.Terms-and-definitions#4323-无穷infinity)（[Infinity](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-infinity)）
   - 4.3.24 [非数值](./4.3.Terms-and-definitions#4324-非数值nan)（[NaN](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-nan)）
-  - 4.3.25 符号值（Symbol value）
-  - 4.3.26 符号类型（Symbol type）
-  - 4.3.27 符号对象（Symbol object）
+  - 4.3.25 [符号值](./4.3.Terms-and-definitions#4325-符号值symbol-value)（[Symbol value](https://262.ecma-international.org/6.0/#sec-symbol-value)）
+  - 4.3.26 [符号类型](./4.3.Terms-and-definitions#4326-符号类型symbol-type)（[Symbol type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-symbol-type)）
+  - 4.3.27 [符号对象](./4.3.Terms-and-definitions#4327-符号对象symbol-object)（[Symbol object](https://262.ecma-international.org/6.0/#sec-symbol-object)）
   - 4.3.28 函数（function）
   - 4.3.29 内置函数（built-in function）
   - 4.3.30 特性（property）
