@@ -129,13 +129,7 @@ Boolean 类型的数据值。
 
 ### 4.3.18 字符串类型（String type）
 
-原文：
-
-> set of all possible String values.
-
-机器翻译：
-
-> 所有可能的字符串值的集合。
+所有可能的字符串值的集合。
 
 ### 4.3.19 字符串对象（String object）
 
