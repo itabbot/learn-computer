@@ -53,4 +53,4 @@
   - 4.3.33 [特性](./4.3.Terms-and-definitions#4333-特性attribute)（[attribute](https://262.ecma-international.org/6.0/#sec-attribute)）
   - 4.3.34 [自有属性](./4.3.Terms-and-definitions#4334-自有属性own-property)（[own property](https://262.ecma-international.org/6.0/#sec-own-property)）
   - 4.3.35 [继承属性](./4.3.Terms-and-definitions#4335-继承属性inherited-property)（[inherited property](https://262.ecma-international.org/6.0/#sec-inherited-property)）
-- 4.4 本规范的组织（Organization of This Specification）
+- 4.4 [本规范的组织](./4.4.Organization-of-This-Specification)（[Organization of This Specification](https://262.ecma-international.org/6.0/#sec-organization-of-this-specification)）
