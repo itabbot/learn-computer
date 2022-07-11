@@ -45,12 +45,12 @@
   - 4.3.25 [符号值](./4.3.Terms-and-definitions#4325-符号值symbol-value)（[Symbol value](https://262.ecma-international.org/6.0/#sec-symbol-value)）
   - 4.3.26 [符号类型](./4.3.Terms-and-definitions#4326-符号类型symbol-type)（[Symbol type](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-symbol-type)）
   - 4.3.27 [符号对象](./4.3.Terms-and-definitions#4327-符号对象symbol-object)（[Symbol object](https://262.ecma-international.org/6.0/#sec-symbol-object)）
-  - 4.3.28 函数（function）
-  - 4.3.29 内置函数（built-in function）
-  - 4.3.30 特性（property）
-  - 4.3.31 方法（method）
-  - 4.3.32 内置方法（built-in method）
-  - 4.3.33 属性（attribute）
-  - 4.3.34 自有特性（own property）
-  - 4.3.35 继承的特性（inherited property）
+  - 4.3.28 [函数](./4.3.Terms-and-definitions#4328-函数function)（[function](https://262.ecma-international.org/6.0/#sec-terms-and-definitions-function)）
+  - 4.3.29 [内置函数](./4.3.Terms-and-definitions#4329-内置函数built-in-function)（[built-in function](https://262.ecma-international.org/6.0/#sec-built-in-function)）
+  - 4.3.30 [属性](./4.3.Terms-and-definitions#4330-属性property)（[property](https://262.ecma-international.org/6.0/#sec-property)）
+  - 4.3.31 [方法](./4.3.Terms-and-definitions#4331-方法method)（[method](https://262.ecma-international.org/6.0/#sec-method)）
+  - 4.3.32 [内置方法](./4.3.Terms-and-definitions#4332-内置方法built-in-method)（[built-in method](https://262.ecma-international.org/6.0/#sec-built-in-method)）
+  - 4.3.33 [特性](./4.3.Terms-and-definitions#4333-特性attribute)（[attribute](https://262.ecma-international.org/6.0/#sec-attribute)）
+  - 4.3.34 [自有属性](./4.3.Terms-and-definitions#4334-自有属性own-property)（[own property](https://262.ecma-international.org/6.0/#sec-own-property)）
+  - 4.3.35 [继承属性](./4.3.Terms-and-definitions#4335-继承属性inherited-property)（[inherited property](https://262.ecma-international.org/6.0/#sec-inherited-property)）
 - 4.4 本规范的组织（Organization of This Specification）
