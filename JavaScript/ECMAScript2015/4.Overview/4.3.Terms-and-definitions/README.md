@@ -200,3 +200,69 @@ const symObj = Object(sym);
 // 或者
 const symObj2 = Object.create(Symbol.prototype);
 ```
+
+### 4.3.28 函数（function）
+
+可以当作子程序调用的对象。
+
+函数除了属性之外，还包含可执行的代码和状态，这些代码和状态决定函数被调用时的行为方式。
+
+### 4.3.29 内置函数（built-in function）
+
+内置的函数对象。比如 `parseInt` 和 `Math.exp`。
+
+一个 “ECMAScript 实现” 可以提供与其相关但本规范中没有描述的内置函数。
+
+### 4.3.30 属性（property）
+
+是对象的一部分，关联一个键名和键值。
+
+根据属性的形式，其值可以直接表示为数据值（原始值、对象或函数对象），也可以通过一对访问器函数间接表示。比如：
+
+```javascript
+// 定义一个对象
+const person = {
+  // 普通属性
+  language: "",
+
+  // 访问器属性
+  get lang() {
+    return this.language;
+  },
+  set lang(value) {
+    this.language = value;
+  },
+};
+
+// 设置属性值
+person.lang = "zh-cn";
+
+// 获取属性值
+console.log(person.lang);
+```
+
+### 4.3.31 方法（method）
+
+作为对象的属性值的函数。
+
+当函数作为对象的方法被调用时，该对象会作为 `this` 值被传递给函数。
+
+### 4.3.32 内置方法（built-in method）
+
+内置对象的方法。
+
+本规范定义了标准的内置方法，“ECMAScript 实现” 也可以指定并提供其他额外的内置方法。
+
+### 4.3.33 特性（attribute）
+
+定义属性（property）的某些特征的内部值。
+
+attribute 通常也会被翻译为 “属性”，但是在此称它为 “特性” 会更加贴切一点。可回顾之前学习的 “[Property 和 Attribute](../4.2.ECMAScript-Overview#property-和-attribute)”。
+
+### 4.3.34 自有属性（own property）
+
+对象直接包含的属性，与 “继承属性” 相对。
+
+### 4.3.35 继承属性（inherited property）
+
+从对象的原型继承而来的属性，与 “自有属性” 相对。
