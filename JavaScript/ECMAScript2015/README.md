@@ -4,7 +4,7 @@
 转存资源： [ES6-PDF](./ECMA-262_6th_edition_june_2015.pdf)（转存官方文件）、[ES6-PDF-中文版](./ECMA-262_6th_edition_june_2015_translate_yd.pdf)（有道翻译[^trans]）。  
 其他资源： [ES5.1 中文在线版](https://www.w3.org/html/ig/zh/wiki/ES5)（W3C 翻译）、[ES6 标准入门](https://es6.ruanyifeng.com)。
 
-本系列以官方规格文件目录作为学习清单，着重学习语言的使用和原理，暂不涉及语言的实现。目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到官方在线版对应章节。
+目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到官方在线版对应章节。
 
 ## 目录
 
