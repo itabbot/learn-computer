@@ -8,7 +8,7 @@
 
 ## 子目录
 
-- 5.1 句法和词法（Syntactic and Lexical Grammars）
+- 5.1 句法和词法（[Syntactic and Lexical Grammars](https://262.ecma-international.org/6.0/#sec-syntactic-and-lexical-grammars)）
 
   - 5.1.1 [上下文无关文法](./5.1.1.Context-Free-Grammars.md)（[Context-Free Grammars](https://262.ecma-international.org/6.0/#sec-context-free-grammars)）
   - 5.1.2 词法和正则文法（The Lexical and RegExp Grammars）
