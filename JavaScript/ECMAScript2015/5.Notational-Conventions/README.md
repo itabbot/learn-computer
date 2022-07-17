@@ -11,7 +11,7 @@
 - 5.1 [句法和词法](./5.1.Syntactic-and-Lexical-Grammars.md)（[Syntactic and Lexical Grammars](https://262.ecma-international.org/6.0/#sec-syntactic-and-lexical-grammars)）
 
   - 5.1.1 [上下文无关文法](./5.1.1.Context-Free-Grammars.md)（[Context-Free Grammars](https://262.ecma-international.org/6.0/#sec-context-free-grammars)）
-  - 5.1.2 词法和正则文法（The Lexical and RegExp Grammars）
+  - 5.1.2 [词法和正则文法](./5.1.2.The-Lexical-and-RegExp-Grammars.md)（[The Lexical and RegExp Grammars](https://262.ecma-international.org/6.0/#sec-lexical-and-regexp-grammars)）
   - 5.1.3 数字字符串文法（The Numeric String Grammar）
   - 5.1.4 句法（The Syntactic Grammar）
   - 5.1.5 文法标记法（Grammar Notation）
