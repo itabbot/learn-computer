@@ -14,7 +14,7 @@
   - 5.1.2 [词法和正则文法](./5.1.2.The-Lexical-and-RegExp-Grammars.md)（[The Lexical and RegExp Grammars](https://262.ecma-international.org/6.0/#sec-lexical-and-regexp-grammars)）
   - 5.1.3 [数字字符串文法](./5.1.3.The-Numeric-String-Grammar.md)（[The Numeric String Grammar](https://262.ecma-international.org/6.0/#sec-numeric-string-grammar)）
   - 5.1.4 [句法](./5.1.4.The-Syntactic-Grammar.md)（[The Syntactic Grammar](https://262.ecma-international.org/6.0/#sec-syntactic-grammar)）
-  - 5.1.5 文法标记法（Grammar Notation）
+  - 5.1.5 [文法标记法](./5.1.5.Grammar-Notation.md)（[Grammar Notation](https://262.ecma-international.org/6.0/#sec-grammar-notation)）
 
 - 5.2 算法约定（Algorithm Conventions）
 
