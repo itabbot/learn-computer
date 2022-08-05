@@ -16,6 +16,6 @@
   - 5.1.4 [句法](./5.1.4.The-Syntactic-Grammar.md)（[The Syntactic Grammar](https://262.ecma-international.org/6.0/#sec-syntactic-grammar)）
   - 5.1.5 [文法标记法](./5.1.5.Grammar-Notation.md)（[Grammar Notation](https://262.ecma-international.org/6.0/#sec-grammar-notation)）
 
-- 5.2 算法约定（Algorithm Conventions）
+- 5.2 [算法约定](./5.2.Algorithm-Conventions.md)（[Algorithm Conventions](https://262.ecma-international.org/6.0/#sec-algorithm-conventions)）
 
 - 5.3 静态语义规则（Static Semantic Rules）
