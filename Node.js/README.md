@@ -2,9 +2,7 @@
 
 [官方网站](https://nodejs.org) | [GitHub](https://github.com/nodejs) | [StackOverflow](https://stackoverflow.com/questions/tagged/node.js) | [中文社区](https://cnodejs.org)
 
-Node.js 是一个基于 [Chrome V8 引擎](https://v8.dev) 的 [JavaScript](../JavaScript) 运行时环境。由 OpenJS 基金会以及 Node.js 的贡献者们管理和维护。
-
-不同版本的 Node.js 所支持的 ECMAScript 特性，可以通过 [node.green](https://node.green) 查看。它是基于 kangax 的兼容性对照表构建的。
+Node.js 是一个基于 [Chrome V8 引擎](https://v8.dev) 的 [JavaScript](../JavaScript) 运行时环境。由 OpenJS 基金会以及 Node.js 的贡献者们管理和维护。不同版本的 Node.js 所支持的 ECMAScript 特性，可以通过 [node.green](https://node.green) 查看。它是基于 kangax 的兼容性对照表构建的。
 
 ## API
 
