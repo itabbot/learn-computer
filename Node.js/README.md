@@ -8,7 +8,7 @@ Node.js 是一个基于 [Chrome V8 引擎](https://v8.dev) 的 [JavaScript](../J
 
 Node.js 作为 JavaScript 的运行时环境，为其提供了一系列的 API，以下将从 v12.x 版本开始学习。
 
-由于 Node.js 只有偶数版本才会被升级为长期支持版本（LTS），该版本旨在于稳定和安全，且实际的生产环境基本上也只会选择 LTS 版本，所以，以下也只将学习偶数版本的 API。
+由于 Node.js 只有偶数版本才会被升级为长期支持版本（LTS），该版本旨在于稳定和安全，且实际的生产环境基本上也只会选择 LTS 版本，所以，以下也将只学习偶数版本的 API。
 
 - [Node.js v12.22.12 API](./Node.js_v12.22.12_API/)
 - Node.js v14.x API
