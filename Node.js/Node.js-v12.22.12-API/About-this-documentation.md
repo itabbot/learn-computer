@@ -1,6 +1,6 @@
 # 关于本文档（About this documentation）
 
-[官方在线版](https://nodejs.org/docs/latest-v12.x/api/documentation.html)
+[官方原文](https://nodejs.org/docs/latest-v12.x/api/documentation.html) | [中文网译文](http://nodejs.cn/api-v12/documentation.html)
 
 ## 学习理解
 
