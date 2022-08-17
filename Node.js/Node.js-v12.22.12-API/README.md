@@ -7,7 +7,7 @@
 ## 目录
 
 - [关于本文档](./About-this-documentation.md)（[About this documentation](https://nodejs.org/docs/latest-v12.x/api/documentation.html)）
-- 用法与示例（Usage and example）
+- [用法与示例](./Usage-and-example.md)（[Usage and example](https://nodejs.org/docs/latest-v12.x/api/synopsis.html)）
 - assert 断言（Assertion testing）
 - async_hooks 异步钩子（Async hooks）
 - buffer 缓冲区（Buffer）
