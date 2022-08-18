@@ -1,6 +1,6 @@
 # 微软 REST API 指南
 
-[Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+[原文](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md) | [原文快照](./snapshoot/)
 
 下方目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到原文页面对应章节。
 
