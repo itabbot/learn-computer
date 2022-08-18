@@ -1,6 +1,6 @@
 # Node.js v12.22.12 API
 
-[官方原文](https://nodejs.org/docs/latest-v12.x/api) | [中文网译文](http://nodejs.cn/api-v12)
+[官方原文](https://nodejs.org/docs/latest-v12.x/api) | [中文网译文](http://nodejs.cn/api-v12) | [快照](./snapshoot/)
 
 下方目录项左侧为中文描述，链接到相关学习记录，右侧括号中是原文，链接到官方在线版对应章节。
 
