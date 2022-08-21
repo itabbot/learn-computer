@@ -8,7 +8,7 @@
 
 1. [略] 摘要（[Abstract](./snapshoot/Guidelines-20220818.md#1-abstract)）
 2. [略] 目录（[Table of contents](./snapshoot/Guidelines-20220818.md#2-table-of-contents)）
-3. [简介](./Introduction.md)（[Introduction](./snapshoot/Guidelines-20220818.md#3-introduction)）
+3. [引言](./Introduction.md)（[Introduction](./snapshoot/Guidelines-20220818.md#3-introduction)）
 4. [解释本指南](./Interpreting-the-guidelines.md)（[Interpreting the guidelines](./snapshoot/Guidelines-20220818.md#4-interpreting-the-guidelines)）
 5. 分类（Taxonomy）
 6. 客户指导（Client guidance）

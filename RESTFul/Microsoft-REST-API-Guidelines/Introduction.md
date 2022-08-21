@@ -1,4 +1,4 @@
-# 3. 简介（Introduction）
+# 3. 引言（Introduction）
 
 [原文](./snapshoot/Guidelines-20220818.md#3-introduction)
 
