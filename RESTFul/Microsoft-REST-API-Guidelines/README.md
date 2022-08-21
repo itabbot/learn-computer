@@ -6,8 +6,8 @@
 
 ## 目录
 
-1. 摘要（Abstract）
-2. 目录（Table of contents）
+1. [略] 摘要（[Abstract](./snapshoot/Guidelines-20220818.md#1-abstract)）
+2. [略] 目录（[Table of contents](./snapshoot/Guidelines-20220818.md#2-table-of-contents)）
 3. 简介（Introduction）
 4. 解释指南（Interpreting the guidelines）
 5. 分类（Taxonomy）
