@@ -17,15 +17,10 @@ Koa 是由 Express 幕后的原班人马打造的新 Web 框架，旨在为 Web 
 
 待更新…
 
-## 常用包
+## 最佳实践
 
 待更新…
 
 <!-- https://github.com/koajs/koa/wiki -->
-
-## 典型场景
-
-待更新…
-
 <!-- https://github.com/koajs/examples -->
 <!-- https://github.com/koajs/koa/blob/master/docs/guide.md -->
