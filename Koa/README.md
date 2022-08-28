@@ -19,7 +19,7 @@ Koa 是由 Express 幕后的原班人马打造的新 Web 框架，旨在为 Web 
 
 ## 最佳实践
 
-待更新…
+- [路由](./最佳实践/路由.md)
 
 <!-- https://github.com/koajs/koa/wiki -->
 <!-- https://github.com/koajs/examples -->
