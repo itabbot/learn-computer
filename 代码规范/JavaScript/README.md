@@ -7,3 +7,5 @@
 ## ESLint
 
 [官方网站](https://eslint.org/) | [Github](https://github.com/eslint/eslint) | [NPM](https://www.npmjs.com/package/eslint) | [中文网](https://cn.eslint.org/)
+
+[官方文档](https://eslint.org/docs/latest/user-guide/) | [中文文档](https://cn.eslint.org/docs/user-guide/) | [文档快照](./snapshoot/ESLintUserGuide/2022-08-29/)
