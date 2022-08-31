@@ -13,5 +13,5 @@
 
 - [快速安装（选装流行的代码风格配置）](./ESLint/快速安装.md)
 - [基本使用](./ESLint/基本使用.md)
-- 使用 VS Code 的 ESLint 插件
+- [使用 VS Code 的 ESLint 插件](./ESLint/使用VSCode的ESLint插件.md)
 - 设置 Git 提交前必须通过 ESLint 检查
