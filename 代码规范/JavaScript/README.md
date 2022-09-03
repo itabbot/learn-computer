@@ -15,3 +15,13 @@
 - [基本使用](./ESLint/基本使用.md)
 - [使用 VS Code 的 ESLint 插件](./ESLint/使用VSCode的ESLint插件.md)
 - [设置 Git 提交前必须通过 ESLint 检查](./ESLint/设置Git提交前必须通过ESLint检查.md)
+
+# Prettier
+
+[官方网站](https://prettier.io/) | [Github](https://github.com/prettier/prettier) | [NPM](https://www.npmjs.com/package/prettier) | [中文网](https://www.prettier.cn/)
+
+还有一个非常流行的工具不得不提，那就是 Prettier，它在代码格式方面几乎面面俱到，就像它的名字一样，可以让代码变得更加漂亮。
+
+值得注意的是，Prettier 跟一些流行的代码风格/规范存在部分规则冲突，但是还好，产生冲突的都是格式相关的规则，不会造成代码质量问题。针对这些冲突的规则，通常的做法是：选择使用 Prettier。在使用 ESLint 工具时，可以再安装一个 `eslint-config-prettier` 工具，它会关闭所有不必要或可能与 Prettier 冲突的规则。[使用方法>>](./Prettier/关闭不必要或可能冲突的规则.md)
+
+另外，还可以给 ESLint 安装一个 `eslint-plugin-prettier` 插件，将 Prettier 作为 ESLint 的规则运行，并将差异报告为 ESLint 问题。这样就可以统一错误来源，方便使用和处理。[使用方法>>](./Prettier/作为ESLint规则运行.md)
