@@ -16,7 +16,7 @@
 - [使用 VS Code 的 ESLint 插件](./ESLint/使用VSCode的ESLint插件.md)
 - [设置 Git 提交前必须通过 ESLint 检查](./ESLint/设置Git提交前必须通过ESLint检查.md)
 
-# Prettier
+## Prettier
 
 [官方网站](https://prettier.io/) | [Github](https://github.com/prettier/prettier) | [NPM](https://www.npmjs.com/package/prettier) | [中文网](https://www.prettier.cn/)
 
