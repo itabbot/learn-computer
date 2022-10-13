@@ -23,19 +23,19 @@ app.use(async (ctx) => {
 
 以下是其他更多：
 
-- [ctx.state](#ctxstate)
-- [ctx.app](#ctxapp)
-- [ctx.cookies](#ctxcookies)
-- [ctx.throw](#ctxthrow)
-- [ctx.assert](#ctxassert)
-- [请求对象别名](#请求对象别名)
-- [响应对象别名](#响应对象别名)
+- [1. ctx.state](#1-ctxstate)
+- [2. ctx.app](#2-ctxapp)
+- [3. ctx.cookies](#3-ctxcookies)
+- [4. ctx.throw](#4-ctxthrow)
+- [5. ctx.assert](#5-ctxassert)
+- [6. 请求对象别名](#6-请求对象别名)
+- [7. 响应对象别名](#7-响应对象别名)
 
-### ctx.state
+### 1. ctx.state
 
 `ctx.state` 可用于为中间件和视图文件传递信息，可参考 [koa-views](https://github.com/queckezz/koa-views/blob/e7b8e4d50160a94ccc9eef2d4fe6488d297b5dde/README.md#example)。
 
-### ctx.app
+### 2. ctx.app
 
 `ctx.app` 是 Koa 应用实例的引用。
 
@@ -51,7 +51,7 @@ app.on('foo', (...args) => {
 });
 ```
 
-### ctx.cookies
+### 3. ctx.cookies
 
 `ctx.cookies` 是 [cookies](https://github.com/pillarjs/cookies) 模块 Cookies 类的一个实例对象，Koa 通过它来提供相应的能力。
 
@@ -77,7 +77,7 @@ app.use(async (ctx) => {
 });
 ```
 
-### ctx.throw
+### 4. ctx.throw
 
 使用 `ctx.throw` 将抛出一个错误。Koa 使用了 [http-errors](https://github.com/jshttp/http-errors) 来创建错误对象。以下是使用示例：
 
@@ -89,11 +89,11 @@ app.use(async (ctx) => {
 });
 ```
 
-### ctx.assert
+### 5. ctx.assert
 
 `ctx.assert` 执行一次断言，Koa 使用了 [http-assert](https://github.com/jshttp/http-assert) 模块来实现，它类似 Node.js 的 [assert](https://nodejs.org/dist/latest-v16.x/docs/api/assert.html) 模块，不同的是，http-assert 模块断言不通过时抛出的是使用 [http-errors](https://github.com/jshttp/http-errors) 来创建错误对象。
 
-### 请求对象别名
+### 6. 请求对象别名
 
 以下访问器和方法是 Koa 请求对象的别名，这样做的目的是为了更加方便地使用。
 
@@ -129,7 +129,7 @@ app.use(async (ctx) => {
 - ctx.acceptsLanguages()
 - ctx.get()
 
-### 响应对象别名
+### 7. 响应对象别名
 
 以下访问器和方法是 Koa 响应对象的别名：
 
