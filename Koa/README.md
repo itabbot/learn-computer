@@ -11,7 +11,7 @@ Koa 是由 Express 幕后的原班人马打造的新 Web 框架，旨在为 Web 
 - [应用](./API/Application.md)（[Application](https://koajs.com/#application)）
 - [上下文](./API/Context.md)（[Context](https://koajs.com/#context)）
 - [请求](./API/Request.md)（[Request](https://koajs.com/#request)）
-- 响应（Response）
+- [响应](./API/Response.md)（[Response](https://koajs.com/#response)）
 
 ## 最佳实践
 
