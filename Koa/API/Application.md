@@ -1,6 +1,6 @@
 # 应用（Application）<!-- omit in toc -->
 
-[官方原文](https://koajs.com/#application) | [中文网译文](http://koajs.cn/#application)
+[官方原文](https://koajs.com/#application)
 
 ## 学习理解 <!-- omit in toc -->
 
