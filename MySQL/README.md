@@ -8,8 +8,13 @@ MySQL 最初由瑞典的 MySQL AB 公司开发，该公司于 2008 年被 Sun Mi
 
 MySQL 被甲骨文公司收购后大幅调涨了商业版的售价，且甲骨文公司不再支持另一个自由软件项目 OpenSolaris 的发展，因此导致自由软件社群们对于 Oracle 是否还会持续支持 MySQL 社群版（MySQL 之中唯一的免费版本）有所隐忧，MySQL 的创始人 Widenius 以 MySQL 为基础，成立分支计划 MariaDB。
 
-## 版本历史
+## MySQL 服务器
 
-- MySQL 5.6
+- [MySQL 5.6](./MySQL5.6)
 - MySQL 5.7
 - MySQL 8.0
+
+## 高可用性、复制和可扩展性解决方案
+
+- MySQL InnoDB 集群
+- MySQL NDB 集群
