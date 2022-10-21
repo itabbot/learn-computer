@@ -1,14 +1,12 @@
 # Linux
 
-[Linux 内核官网](https://www.kernel.org) | [Linux 内核源码](https://github.com/torvalds/linux)
+[Linux 内核官网](https://www.kernel.org) | [Linux 内核源码](https://github.com/torvalds/linux) | [GNU 官网](https://www.gnu.org)
 
 Linux 通常是指 “Linux 操作系统”，是由 “Linux 内核” 加上支撑内核的系统工具和库所构成。是一种自由、开源的[类 Unix](../术语表/类UNIX系统.md) 操作系统。
 
 Linux 内核（英文：Linux kernel）最早是于 1991 年由芬兰黑客 Linus Torvalds 为自己的个人电脑开发的。到如今，Linux 内核已经接受了超过 1200 家公司的近 12000 名程序员的贡献，其中还包括一些知名的软硬件发行商，该项目已经拓展到支持大量的计算机体系架构，远超其他操作系统和内核。
 
 ## Linux 历史
-
-[GNU 官网](https://www.gnu.org)
 
 以下这些因素使得当时的 Torvalds 开始了他的项目。他曾说过，如果那时候有可用的 GNU 或者 386BSD 内核的话，他很可能就不会去写他自己的内核了。
 
