@@ -38,4 +38,19 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 
 ### 1.2. 结构和组件
 
-<img src="./imgs/k8s结构和组件.svg" width="800"  alt="k8s结构和组件"/>
+<div style="text-align:center;">
+  <img src="./imgs/k8s结构和组件.svg" width="800" alt="k8s结构和组件"/>
+</div>
+
+如上图所示，左侧是主节点，其中的各类组件对集群进行全局的控制，k8s 称之为 “控制平面”。右侧是工作节点，可以是物理机器或者虚拟机，它会运行容器化的应用程序。开发人员通过命令行工具 kubectl 来操作控制平面从而管理集群，而终端用户则通过开放的互联网入口来访问用应用程序。以下分别介绍其中的每个组件：
+
+- 控制平面组件
+  - kube-apiserver
+  - etcd
+  - kube-scheduler
+  - kube-controller-manager
+- 工作节点组件
+  - kubelet
+  - kube-proxy
+  - 容器运行时
+  - Pod
