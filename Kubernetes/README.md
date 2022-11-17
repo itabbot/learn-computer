@@ -2,7 +2,7 @@
 
 [官方网站](https://kubernetes.io) | [中文文档](https://kubernetes.io/zh-cn/docs/home/) | [GitHub](https://github.com/kubernetes)
 
-# 目录<!-- omit in toc -->
+## 目录<!-- omit in toc -->
 
 - [1. 概述](#1-概述)
   - [1.1. 特性](#11-特性)
