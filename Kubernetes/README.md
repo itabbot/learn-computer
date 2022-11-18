@@ -43,22 +43,22 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 
 以下分别介绍其中的每个组件：
 
-- 控制平面组件（Control Plane Components）：控制平面组件会为集群做出全局决策，比如资源的调度。以及检测和响应集群事件，例如当不满足部署的 replicas 字段时，要启动新的 pod。控制平面组件可以在集群中的任何节点上运行，然而，为了简单起见，设置脚本通常会在同一个计算机上启动所有控制平面组件，并且不会在此计算机上运行用户容器。
+控制平面组件（Control Plane Components）：控制平面组件会为集群做出全局决策，比如资源的调度。以及检测和响应集群事件，例如当不满足部署的 replicas 字段时，要启动新的 pod。控制平面组件可以在集群中的任何节点上运行，然而，为了简单起见，设置脚本通常会在同一个计算机上启动所有控制平面组件，并且不会在此计算机上运行用户容器。
 
-  - API 服务器（kube-apiserver）：该组件负责公开 Kubernetes API，负责处理接受请求的工作。API 服务器是 Kubernetes 控制平面的前端。kube-apiserver 设计上考虑了水平扩缩，也就是说，它可通过部署多个实例来进行扩缩。你可以运行 kube-apiserver 的多个实例，并在这些实例之间平衡流量。
+- API 服务器（kube-apiserver）：该组件负责公开 Kubernetes API，负责处理接受请求的工作。API 服务器是 Kubernetes 控制平面的前端。kube-apiserver 设计上考虑了水平扩缩，也就是说，它可通过部署多个实例来进行扩缩。你可以运行 kube-apiserver 的多个实例，并在这些实例之间平衡流量。
 
-  - etcd：一致且高度可用的键值存储，用作 Kubernetes 的所有集群数据的后台数据库。
+- etcd：一致且高度可用的键值存储，用作 Kubernetes 的所有集群数据的后台数据库。
 
-  - 调度器（kube-scheduler）：负责监视新创建的、未指定运行节点（node）的 Pods，并选择节点来让 Pod 在上面运行。调度决策考虑的因素包括单个 Pod 及 Pods 集合的资源需求、软硬件及策略约束、亲和性及反亲和性规范、数据位置、工作负载间的干扰及最后时限。
+- 调度器（kube-scheduler）：负责监视新创建的、未指定运行节点（node）的 Pods，并选择节点来让 Pod 在上面运行。调度决策考虑的因素包括单个 Pod 及 Pods 集合的资源需求、软硬件及策略约束、亲和性及反亲和性规范、数据位置、工作负载间的干扰及最后时限。
 
-  - 控制器管理器（kube-controller-manager）：负责运行控制器进程。从逻辑上讲，每个控制器都是一个单独的进程，但是为了降低复杂性，它们都被编译到同一个可执行文件，并在同一个进程中运行。这些控制器包括：节点控制器（Node Controller）、任务控制器（Job Controller）、端点分片控制器（EndpointSlice controller）、服务账号控制器（ServiceAccount controller）等等。
+- 控制器管理器（kube-controller-manager）：负责运行控制器进程。从逻辑上讲，每个控制器都是一个单独的进程，但是为了降低复杂性，它们都被编译到同一个可执行文件，并在同一个进程中运行。这些控制器包括：节点控制器（Node Controller）、任务控制器（Job Controller）、端点分片控制器（EndpointSlice controller）、服务账号控制器（ServiceAccount controller）等等。
 
-- 工作节点组件：节点组件会在每个节点上运行，负责维护运行的 Pod 并提供 Kubernetes 运行环境。
+工作节点组件：节点组件会在每个节点上运行，负责维护运行的 Pod 并提供 Kubernetes 运行环境。
 
-  - kubelet：在集群中每个节点（node）上运行。它保证容器（containers）都运行在 Pod 中。kubelet 接收一组通过各类机制提供给它的 PodSpecs，确保这些 PodSpecs 中描述的容器处于运行状态且健康。kubelet 不会管理不是由 Kubernetes 创建的容器。
+- kubelet：在集群中每个节点（node）上运行。它保证容器（containers）都运行在 Pod 中。kubelet 接收一组通过各类机制提供给它的 PodSpecs，确保这些 PodSpecs 中描述的容器处于运行状态且健康。kubelet 不会管理不是由 Kubernetes 创建的容器。
 
-  - kube-proxy：在集群中每个节点（node）上运行的网络代理，实现 Kubernetes 服务（Service）概念的一部分。kube-proxy 维护节点上的一些网络规则，这些网络规则会允许从集群内部或外部的网络会话与 Pod 进行网络通信。如果操作系统提供了可用的数据包过滤层，则 kube-proxy 会通过它来实现网络规则，否则，kube-proxy 仅做流量转发。
+- kube-proxy：在集群中每个节点（node）上运行的网络代理，实现 Kubernetes 服务（Service）概念的一部分。kube-proxy 维护节点上的一些网络规则，这些网络规则会允许从集群内部或外部的网络会话与 Pod 进行网络通信。如果操作系统提供了可用的数据包过滤层，则 kube-proxy 会通过它来实现网络规则，否则，kube-proxy 仅做流量转发。
 
-  - 容器运行时（Container Runtime）：容器运行环境是负责运行容器的软件。Kubernetes 支持许多容器运行环境，例如 containerd、CRI-O 以及 Kubernetes CRI（容器运行环境接口）的其他任何实现。
+- 容器运行时（Container Runtime）：容器运行环境是负责运行容器的软件。Kubernetes 支持许多容器运行环境，例如 containerd、CRI-O 以及 Kubernetes CRI（容器运行环境接口）的其他任何实现。
 
-  - Pod：是一组（一个或多个）容器，是可以在 Kubernetes 中创建和管理的、最小的可部署的计算单元。这些容器共享存储、网络、以及怎样运行这些容器的声明。Pod 中的内容总是并置（colocated）的并且一同调度，在共享的上下文中运行。Pod 所建模的是特定于应用的 “逻辑主机”，其中包含一个或多个应用容器，这些容器相对紧密地耦合在一起。除了应用容器，Pod 还可以包含在 Pod 启动期间运行的 Init 容器。
+- Pod：是一组（一个或多个）容器，是可以在 Kubernetes 中创建和管理的、最小的可部署的计算单元。这些容器共享存储、网络、以及怎样运行这些容器的声明。Pod 中的内容总是并置（colocated）的并且一同调度，在共享的上下文中运行。Pod 所建模的是特定于应用的 “逻辑主机”，其中包含一个或多个应用容器，这些容器相对紧密地耦合在一起。除了应用容器，Pod 还可以包含在 Pod 启动期间运行的 Init 容器。
