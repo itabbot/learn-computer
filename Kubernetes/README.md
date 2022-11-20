@@ -79,7 +79,7 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 
 用于生产：
 
-- [kubeadm](https://kubernetes.io/zh-cn/docs/reference/setup-tools/kubeadm/)：kubeadm 是和 Kubernetes 一块发布的集群部署工具，与 Kubernetes 在同一个代码仓库中，因此可以说 kubeadm 是 Kubernetes 最亲的部署工具，目前使用最多的，同时也是社区最为推荐的 Kubernetes 部署工具。其实很多其他的部署工具也都是基于 kubeadm 实现的，前面提到的 minikube、kind 等工具都是基于 kubeadm 实现的。
+- [kubeadm](https://kubernetes.io/zh-cn/docs/reference/setup-tools/kubeadm/)：kubeadm 是和 Kubernetes 一块发布的集群部署工具，与 Kubernetes 在同一个代码仓库中，因此可以说 kubeadm 是 Kubernetes 最亲的部署工具，是目前使用最多，同时也是社区最为推荐的 Kubernetes 部署工具。其实很多其他的部署工具也都是基于 kubeadm 实现的，前面提到的 minikube、kind 等工具都是基于 kubeadm 实现的。
 
 - [kubespray](https://kubespray.io)：Kubespray 使用 [Ansible](https://www.ansible.com/) 部署生产级别的 Kubernetes 集群。对于已经了解 Ansible 的人们来说，该工具是一个不错的选择，因为无需使用其他工具进行预配和编排。也有 kops 的集成度（还差一些，但是该有的都有了），升级方便。
 
