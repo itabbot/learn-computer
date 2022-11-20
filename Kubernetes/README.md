@@ -7,6 +7,8 @@
 - [1. 概述](#1-概述)
   - [1.1. 特性](#11-特性)
   - [1.2. 结构和组件](#12-结构和组件)
+- [2. 安装](#2-安装)
+- [3. 最佳实践](#3-最佳实践)
 
 ## 1. 概述
 
@@ -62,3 +64,27 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 - 容器运行时（Container Runtime）：容器运行环境是负责运行容器的软件。Kubernetes 支持许多容器运行环境，例如 containerd、CRI-O 以及 Kubernetes CRI（容器运行环境接口）的其他任何实现。
 
 - Pod：是一组（一个或多个）容器，是可以在 Kubernetes 中创建和管理的、最小的可部署的计算单元。这些容器共享存储、网络、以及怎样运行这些容器的声明。Pod 中的内容总是并置（colocated）的并且一同调度，在共享的上下文中运行。Pod 所建模的是特定于应用的 “逻辑主机”，其中包含一个或多个应用容器，这些容器相对紧密地耦合在一起。除了应用容器，Pod 还可以包含在 Pod 启动期间运行的 Init 容器。
+
+## 2. 安装
+
+安装 kubernetes 的方式有很多种，最原始的方法就是分别下载官方提供的[各个组件的二进制包](https://www.downloadkubernetes.com/)然后手动部署和配置。而更加高效便捷的做法则是利用一些工具来协助安装：
+
+用于学习：
+
+- [Minikube](https://minikube.sigs.k8s.io/)：由 Kubernetes 社区维护的单机版的 Kubernetes 集群快速部署工具，支持 MacOS、Linux 以及 Windows 等操作系统。非常适合在自己本地的个人计算机上作为 Kubernetes 入门环境或作为开发测试环境使用，当然由于只支持单节点不支持高可用因此不能用于生产部署。
+
+- [kind](https://kind.sigs.k8s.io/)：由 Kubernetes 社区新维护的一个使用 Docker 容器 “节点” 运行本地 Kubernetes 集群的工具。主要用于测试 Kubernetes 本身，但也可用于本地开发或 CI。
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)：这是 Docker 官方提供的一个桌面应用程序，用于构建和共享容器化应用程序和微服务，其中包含了 Kubernetes。适用于 Mac、Linux 或 Windows 环境。
+
+用于生产：
+
+- [kubeadm](https://kubernetes.io/zh-cn/docs/reference/setup-tools/kubeadm/)：kubeadm 是和 Kubernetes 一块发布的集群部署工具，与 Kubernetes 在同一个代码仓库中，因此可以说 kubeadm 是 Kubernetes 最亲的部署工具，目前使用最多的，同时也是社区最为推荐的 Kubernetes 部署工具。其实很多其他的部署工具也都是基于 kubeadm 实现的，前面提到的 minikube、kind 等工具都是基于 kubeadm 实现的。
+
+- [kubespray](https://kubespray.io)：Kubespray 使用 [Ansible](https://www.ansible.com/) 部署生产级别的 Kubernetes 集群。对于已经了解 Ansible 的人们来说，该工具是一个不错的选择，因为无需使用其他工具进行预配和编排。也有 kops 的集成度（还差一些，但是该有的都有了），升级方便。
+
+- [Kops](https://kops.sigs.k8s.io/)：kops 是非常早就存在的一个项目，它不仅会帮助您创建、销毁、升级和维护生产级、高可用性的 Kubernetes 集群，还会提供必要的云基础设施。与各云平台整合度非常高，如果您使用了对应的云平台的话该工具是一个不错的选择，目前（2022.11）正式支持 AWS（Amazon Web Services）和 GCE （Google Cloud Platform），DigitalOcean、Hetzner 和 OpenStack 处于 beta 支持状态，Azure 处于 alpha 状态。
+
+- [托管服务](https://kubernetes.io/zh-cn/docs/setup/production-environment/turnkey-solutions/)：如果你不想自己管理 Kubernetes 集群，则可以选择托管服务，包括国内的阿里云、腾讯云、百度云等等。
+
+## 3. 最佳实践
