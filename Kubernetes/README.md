@@ -83,7 +83,7 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 
 - [kubespray](https://kubespray.io)：Kubespray 使用 [Ansible](https://www.ansible.com/) 部署生产级别的 Kubernetes 集群。对于已经了解 Ansible 的人们来说，该工具是一个不错的选择，因为无需使用其他工具进行预配和编排。
 
-- [Kops](https://kops.sigs.k8s.io/)：kops 是非常早就存在的一个项目，它不仅会帮助您创建、销毁、升级和维护生产级、高可用性的 Kubernetes 集群，还会提供必要的云基础设施。与各云平台整合度非常高，如果您使用了对应的云平台的话该工具是一个不错的选择，目前（2022.11）正式支持 AWS（Amazon Web Services）和 GCE （Google Cloud Platform），DigitalOcean、Hetzner 和 OpenStack 处于 beta 支持状态，Azure 处于 alpha 状态。
+- [Kops](https://kops.sigs.k8s.io/)：非常早就存在的一个项目，它不仅会帮助您创建、销毁、升级和维护生产级、高可用性的 Kubernetes 集群，还会提供必要的云基础设施。与各云平台整合度非常高，如果您使用了对应的云平台的话该工具是一个不错的选择，目前（2022.11）正式支持 AWS（Amazon Web Services）和 GCE （Google Cloud Platform），DigitalOcean、Hetzner 和 OpenStack 处于 beta 支持状态，Azure 处于 alpha 状态。
 
 - [托管服务](https://kubernetes.io/zh-cn/docs/setup/production-environment/turnkey-solutions/)：如果你不想自己管理 Kubernetes 集群，则可以选择托管服务，包括国内的阿里云、腾讯云、百度云等等。
 
