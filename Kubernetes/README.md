@@ -88,3 +88,5 @@ Kubernetes 这个名字源于希腊语，意为 “舵手” 或 “飞行员”
 - [托管服务](https://kubernetes.io/zh-cn/docs/setup/production-environment/turnkey-solutions/)：如果你不想自己管理 Kubernetes 集群，则可以选择托管服务，包括国内的阿里云、腾讯云、百度云等等。
 
 ## 3. 最佳实践
+
+- [部署高可用高扩展的控制平面集群](./最佳实践/部署高可用高扩展的控制平面集群.md)。
