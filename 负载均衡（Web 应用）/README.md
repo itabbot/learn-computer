@@ -113,4 +113,4 @@
 
 <img src="./imgs/负载均衡-LVS.png" width="700" alt="负载均衡-LVS"/>
 
-如上图所示，通过 LVS 来扩展多个 Nginx，同时通过 Keepalived 保证 LVS 的可用性。
+如上图所示，通过 LVS 来扩展多个 Nginx，因为 LVS 的负载能力要比 Nginx 高上一个数量级。同时通过 Keepalived 保证 LVS 的可用性。
