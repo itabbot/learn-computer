@@ -57,7 +57,7 @@
 
 ### 4.1. 单机架构
 
-<img src="./imgs/负载均衡-单机架构.png" width="400" alt="负载均衡-单机架构"/>
+<img src="./imgs/负载均衡-单机架构.png" width="600" alt="负载均衡-单机架构"/>
 
 如上图所示，这是一个简单的 Web 架构（不涉及负载均衡），浏览器通过 DNS 服务器将域名解析为 IP 地址，然后访问到 Web 服务器。
 
@@ -68,7 +68,7 @@
 
 ### 4.2. 使用 DNS 轮询
 
-<img src="./imgs/负载均衡-DNS轮询.png" width="500" alt="负载均衡-DNS轮询"/>
+<img src="./imgs/负载均衡-DNS轮询.png" width="600" alt="负载均衡-DNS轮询"/>
 
 如上图所示，多部署几台 Web 服务器，然后将域名解析到这些服务器的 IP，DNS 服务器会将解析请求随机分配到不同的 IP 上，这样就完成了简单的负载均衡。这种负载均衡方式称为 “DNS 轮询”。
 
@@ -85,7 +85,7 @@
 
 ### 4.3. 使用 Nginx
 
-<img src="./imgs/负载均衡-Nginx.png" width="500" alt="负载均衡-Nginx"/>
+<img src="./imgs/负载均衡-Nginx.png" width="600" alt="负载均衡-Nginx"/>
 
 如上图所示，站点层与浏览器层之间加入了一个反向代理层，利用高性能的 Nginx 来做反向代理，Nginx 会将 HTTP 请求分发给后端多个 Web 服务。
 
@@ -101,7 +101,7 @@
 
 ### 4.4. 使用 Keepalived
 
-<img src="./imgs/负载均衡-Keepalived.png" width="500" alt="负载均衡-Keepalived"/>
+<img src="./imgs/负载均衡-Keepalived.png" width="600" alt="负载均衡-Keepalived"/>
 
 如上图所示，做两台 Nginx 组成一个集群，分别部署上 Keepalived，设置成相同的虚 IP，保证 Nginx 的高可用，当一台 Nginx 挂了，Keepalived 能够探测到，并将流量自动迁移到另一台 Nginx 上，整个过程对调用方透明。
 
@@ -111,6 +111,6 @@
 
 ### 4.5. 使用 LVS
 
-<img src="./imgs/负载均衡-LVS.png" width="500" alt="负载均衡-LVS"/>
+<img src="./imgs/负载均衡-LVS.png" width="600" alt="负载均衡-LVS"/>
 
 如上图所示，通过 LVS 来扩展多个 Nginx，同时通过 Keepalived 保证 LVS 的可用性。
