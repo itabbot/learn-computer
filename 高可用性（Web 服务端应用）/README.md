@@ -62,6 +62,7 @@
 ### 3.3. 数据库
 
 - [MySQL](./MySQL.md)
+- [Redis](./Redis.md)
 
 ### 3.4. 消息队列
 
