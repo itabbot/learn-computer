@@ -11,8 +11,8 @@ Go by Example 是对 Go 基于实践的介绍，包含一系列带有注释说�
 - [变量](./examples/3.Variables.md)（[Variables](https://gobyexample.com/variables)）
 - [常量](./examples/4.Constants.md)（[Constants](https://gobyexample.com/constants)）
 - [For 循环](./examples/5.For.md)（[For](https://gobyexample.com/for)）
-- [If/Elsexamples/e 分支结构](./6.If-Else.md)（[If/Else](https://gobyexample.com/if-else)）
-- [Switch 分支结 examples/构](./7.Switch.md)（[Switch](https://gobyexample.com/switch)）
+- [If-Else 分支结构](./examples/6.If-Else.md)（[If/Else](https://gobyexample.com/if-else)）
+- [Switch 分支结构](./examples/7.Switch.md)（[Switch](https://gobyexample.com/switch)）
 - [数组](./examples/8.Arrays.md)（[Arrays](https://gobyexample.com/arrays)）
 - [切片](./examples/9.Slices.md)（[Slices](https://gobyexample.com/slices)）
 - [Maps](./examples/10.Maps.md)（[Maps](https://gobyexample.com/maps)）
