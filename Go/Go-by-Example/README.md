@@ -1,0 +1,88 @@
+# Go 示例（Go by Example）<!-- omit in toc -->
+
+[官方网站](https://gobyexample.com) | [中文翻译](https://gobyexample-cn.github.io/) | [GitHub](https://github.com/mmcgrana/gobyexample)
+
+Go by Example 是对 Go 基于实践的介绍，包含一系列带有注释说明的示例程序。
+
+## 目录<!-- omit in toc -->
+
+- [你好世界](./examples/1.Hello-World.md)（[Hello World](https://gobyexample.com/hello-world)）
+- [值](./examples/2.Values.md)（[Values](https://gobyexample.com/values)）
+- [变量](./examples/3.Variables.md)（[Variables](https://gobyexample.com/variables)）
+- [常量](./examples/4.Constants.md)（[Constants](https://gobyexample.com/constants)）
+- [For 循环](./examples/5.For.md)（[For](https://gobyexample.com/for)）
+- [If/Elsexamples/e 分支结构](./6.If-Else.md)（[If/Else](https://gobyexample.com/if-else)）
+- [Switch 分支结 examples/构](./7.Switch.md)（[Switch](https://gobyexample.com/switch)）
+- [数组](./examples/8.Arrays.md)（[Arrays](https://gobyexample.com/arrays)）
+- [切片](./examples/9.Slices.md)（[Slices](https://gobyexample.com/slices)）
+- [Maps](./examples/10.Maps.md)（[Maps](https://gobyexample.com/maps)）
+- [Range 遍历](./examples/11.Range.md)（[Range](https://gobyexample.com/range)）
+- [函数](./examples/12.Functions.md)（[Functions](https://gobyexample.com/functions)）
+- [多返回值](./examples/13.Multiple-Return-Values.md)（[Multiple Return Values](https://gobyexample.com/multiple-return-values)）
+- [变参函数](./examples//14.Variadic-Functions.md)（[Variadic Functions](https://gobyexample.com/variadic-functions)）
+- [闭包](./examples/15.Closures.md)（[Closures](https://gobyexample.com/closures)）
+- [递归](./examples/16.Recursion.md)（[Recursion](https://gobyexample.com/recursion)）
+- [指针](./examples/17.Pointers.md)（[Pointers](https://gobyexample.com/pointers)）
+- 字符串和 rune 类型（Strings and Runes）
+- [结构体](./examples/19.Structs.md)（[Structs](https://gobyexample.com/structs)）
+- [方法](./examples/20.Methods.md)（[Methods](https://gobyexample.com/methods)）
+- [接口](./examples/21.Interfaces.md)（[Interfaces](https://gobyexample.com/interfaces)）
+- Struct Embedding
+- Generics
+- Errors
+- Goroutines
+- Channels
+- Channel Buffering
+- Channel Synchronization
+- Channel Directions
+- Select
+- Timeouts
+- Non-Blocking Channel Operations
+- Closing Channels
+- Range over Channels
+- Timers
+- Tickers
+- Worker Pools
+- WaitGroups
+- Rate Limiting
+- Atomic Counters
+- Mutexes
+- Stateful Goroutines
+- Sorting
+- Sorting by Functions
+- Panic
+- Defer
+- Recover
+- String Functions
+- String Formatting
+- Text Templates
+- Regular Expressions
+- JSON
+- XML
+- Time
+- Epoch
+- Time Formatting / Parsing
+- Random Numbers
+- Number Parsing
+- URL Parsing
+- SHA256 Hashes
+- Base64 Encoding
+- Reading Files
+- Writing Files
+- Line Filters
+- File Paths
+- Directories
+- Temporary Files and Directories
+- Embed Directive
+- Testing and Benchmarking
+- Command-Line Arguments
+- Command-Line Flags
+- Command-Line Subcommands
+- Environment Variables
+- HTTP Client
+- HTTP Server
+- Context
+- Spawning Processes
+- Exec'ing Processes
+- Signals
+- Exit
