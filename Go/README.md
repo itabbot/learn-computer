@@ -23,6 +23,6 @@ Go（又称 Golang，是由于它以前的域名 golang.org）是 Google 开发�
 ## 3. 入门
 
 - [Go 示例](./Go-by-Example)（[Go by Example](https://gobyexample.com)）
-- Go Web 示例（[Go Web Examples](https://gowebexamples.com)）
+- [Go Web 示例](./Go-Web-Examples)（[Go Web Examples](https://gowebexamples.com)）
 
 ## 4. 最佳实践
