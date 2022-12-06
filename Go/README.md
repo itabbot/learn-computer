@@ -15,10 +15,10 @@ Go（又称 Golang，是由于它以前的域名 golang.org）是 Google 开发�
 
 - [标准库](https://pkg.go.dev/std)
 - [命令行](https://go.dev/doc/cmd)
-- [语言规范](https://go.dev/ref/spec)
 - [模块参考](https://go.dev/ref/mod)
 - [go.mod 文件参考](https://go.dev/doc/modules/gomod-ref)
 - [内存模型](https://go.dev/ref/mem)
+- [语言标准规范](https://go.dev/ref/spec)
 
 ## 3. 入门
 
