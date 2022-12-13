@@ -13,11 +13,11 @@ PHP，英文全称 “PHP: Hypertext Preprocessor”，译为 “超文本预处
 
 - 操作系统：包括 Linux、Unix 的各种变种、Microsoft Windows、macOS 以及 RISC OS 等。
 - Web 服务器：包括 Apache、Microsoft IIS、Personal Web Server（PWS）、Netscape、iPlant server、Oreilly Website Pro Server、Caudium、Xitami 以及 OmniHTTPd 等。
-- 数据库：使用针对某数据库的扩展（例如 mysql）、使用抽象层如 PDO、通过 ODBC 扩展连接到任何支持 ODBC 标准的数据库，或用 cURL 或者 sockets 连接（例如 CouchDB）。
+- 数据库：使用针对某数据库的扩展（例如 mysql）、使用抽象层如 PDO、通过 ODBC 扩展连接到任何支持 ODBC 标准的数据库，或用 cURL/sockets 连接（例如 CouchDB）。
 
 PHP 脚本主要用于以下三个领域：
 
-- 服务端脚本：这是 PHP 最传统，也是最主要的目标领域。开展这项工作需要具备以下三点：PHP 解析器（CGI 或者服务器模块）、web 服务器和 web 浏览器。需要在运行 Web 服务器时，安装并配置 PHP，然后用 web 浏览器来访问 PHP 程序的输出，即浏览服务端的 PHP 页面。
+- 服务端脚本：这是 PHP 最传统，也是最主要的目标领域。开展这项工作需要具备以下三点：PHP 解析器（通过 CGI 或者服务器模块）、web 服务器和 web 浏览器。需要在运行 Web 服务器时，安装并配置 PHP，然后用 web 浏览器来访问 PHP 程序的输出，即浏览服务端的 PHP 页面。
 - 命令行脚本：可以编写一段 PHP 脚本，并且不需要任何服务器或者浏览器来运行它。通过这种方式，仅仅只需要 PHP 解析器来执行。这种用法对于依赖 cron（Unix 或者 Linux 环境）或者 Task Scheduler（Windows 环境）的日常运行的脚本来说是理想的选择。
 - 桌面应用程序：对于有着图形界面的桌面应用程序来说，PHP 或许不是一种最好的语言，但是如果用户非常精通 PHP，并且希望在客户端应用程序中使用 PHP 的一些高级特性，可以利用 PHP-GTK 来编写这些程序。用这种方法，还可以编写跨平台的应用程序。PHP-GTK 是 PHP 的一个扩展，在通常发布的 PHP 包中并不包含它，如果对 PHP-GTK 感兴趣，请访问 [其网站](http://gtk.php.net/) 以获取更多信息。
 
