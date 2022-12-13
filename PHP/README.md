@@ -11,9 +11,9 @@
 
 PHP，英文全称 “PHP: Hypertext Preprocessor”，译为 “超文本预处理器”，是一种开源的[脚本语言](../术语表/脚本语言.md)。尤其适用于服务器端 Web 开发并可嵌入到 HTML 中。PHP 能够在所有的主流操作系统上使用、支持大多数的 Web 服务器、支持很大范围的数据库：
 
-- 操作系统：包括 Linux、Unix 的各种变种、Microsoft Windows、macOS、RISC OS 等。
+- 操作系统：包括 Linux、Unix 的各种变种、Microsoft Windows、macOS 以及 RISC OS 等。
 - Web 服务器：包括 Apache、Microsoft IIS、Personal Web Server（PWS）、Netscape、iPlant server、Oreilly Website Pro Server、Caudium、Xitami 以及 OmniHTTPd 等。
-- 数据库：使用任何针对某数据库的扩展（例如 mysql）编写数据库支持的网页非常简单，或者使用抽象层如 PDO，或者通过 ODBC 扩展连接到任何支持 ODBC 标准的数据库。其它一些数据库也可能会用 cURL 或者 sockets，例如 CouchDB。
+- 数据库：使用针对某数据库的扩展（例如 mysql）、使用抽象层如 PDO、通过 ODBC 扩展连接到任何支持 ODBC 标准的数据库，或用 cURL 或者 sockets 连接（例如 CouchDB）。
 
 PHP 脚本主要用于以下三个领域：
 
