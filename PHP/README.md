@@ -9,7 +9,7 @@
 
 [官方网站](https://www.php.net) | [Github](https://github.com/php)
 
-PHP，英文全称 “PHP: Hypertext Preprocessor”，译为 “超文本预处理器”，是一种开源的[脚本语言](../术语表/脚本语言.md)。尤其适用于服务器端 Web 开发并可嵌入到 HTML 中。PHP 能够在所有的主流操作系统上使用，并支持大多数的 Web 服务器、支持很大范围的数据库：
+PHP，英文全称 “PHP: Hypertext Preprocessor”，译为 “超文本预处理器”，是一种开源的[脚本语言](../术语表/脚本语言.md)。尤其适用于服务器端 Web 开发并可嵌入到 HTML 中。PHP 能够在所有的主流操作系统上使用、支持大多数的 Web 服务器，并支持很大范围的数据库：
 
 - 操作系统：包括 Linux、Unix 的各种变种、Microsoft Windows、macOS 以及 RISC OS 等。
 - Web 服务器：包括 Apache、Microsoft IIS、Personal Web Server（PWS）、Netscape、iPlant server、Oreilly Website Pro Server、Caudium、Xitami 以及 OmniHTTPd 等。
