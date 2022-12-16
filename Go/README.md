@@ -28,6 +28,6 @@ Go（又称 Golang，是由于它以前的域名 golang.org）是 Google 开发�
 ## 4. 最佳实践
 
 - Web 框架：[Gin](../Gin)
-- 项目结构参考：[golang-gin-example](https://github.com/gothinkster/golang-gin-realworld-example-app) / [insbiz](https://github.com/fooins/insbiz) / [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) / [go-admin](https://github.com/go-admin-team/go-admin)
+- 项目结构参考：[golang-gin-example](https://github.com/gothinkster/golang-gin-realworld-example-app) / [insbiz](https://github.com/fooins/insbiz) / [go-gin-api](https://github.com/xinliangnote/go-gin-api) / [go-gin-example](https://github.com/eddycjy/go-gin-example)
 - [Golang 代码规范](../代码规范/Golang)
 - 日志处理：[zap](https://github.com/uber-go/zap) / [logrus](https://github.com/sirupsen/logrus) / [zerolog](https://github.com/rs/zerolog) / [apexlog](https://github.com/apex/log) / [glog](https://github.com/golang/glog) / [log](https://pkg.go.dev/log)
