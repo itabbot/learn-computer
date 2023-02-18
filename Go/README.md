@@ -34,4 +34,4 @@ Go（又称 Golang，是由于它以前的域名 golang.org）是 Google 开发�
 - 配置管理：[viper](https://github.com/spf13/viper) / [configor](https://github.com/jinzhu/configor) / [koanf](https://github.com/knadh/koanf)
 - 错误处理：[opsmgt-backend](https://github.com/fooins/opsmgt-backend/tree/main/src/libraries/errors)
 - 数据校验：[go-playground-validator](https://github.com/go-playground/validator) / [asaskevich-govalidator](https://github.com/asaskevich/govalidator) / [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) / [thedevsaddam-govalidator](https://github.com/thedevsaddam/govalidator)
-- 对象关系映射：[gorm](https://github.com/go-gorm/gorm)、[ent](https://github.com/ent/ent)、[sqlboiler](https://github.com/volatiletech/sqlboiler)、[gorp](https://github.com/go-gorp/gorp)、[upperdb](https://github.com/upper/db)、[gorp](https://github.com/go-gorp/gorp)
+- 对象关系映射：[gorm](https://github.com/go-gorm/gorm)、[ent](https://github.com/ent/ent)、[sqlboiler](https://github.com/volatiletech/sqlboiler)、[gorp](https://github.com/go-gorp/gorp)、[upperdb](https://github.com/upper/db)
