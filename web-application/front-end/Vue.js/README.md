@@ -55,6 +55,7 @@ Vue 由尤雨溪（Evan You）创建，于 2014 年发布。尤雨溪之前在 G
 ### 1.5. 尝试
 
 - [最简单的 Vue 单页应用](https://github.com/itabbot/learn-vuejs/tree/main/quick-start/simplest-SPA)
+- [最简单的 Vue 独立脚本应用](https://github.com/itabbot/learn-vuejs/tree/main/quick-start/simplest-standalone-script-app)
 
 ## 2. 按需学习
 
