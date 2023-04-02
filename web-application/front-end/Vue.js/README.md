@@ -1,11 +1,19 @@
 # Vue.js<!-- omit in toc -->
 
+- [1. 快速开始](#1-快速开始)
+  - [1.1. 相关资源](#11-相关资源)
+  - [1.2. 定义](#12-定义)
+  - [1.3. 背景](#13-背景)
+  - [1.4. 应用场景](#14-应用场景)
+  - [1.5. 实践](#15-实践)
+- [2. 按需学习](#2-按需学习)
+- [3. 系统学习](#3-系统学习)
+
 ## 1. 快速开始
 
 ### 1.1. 相关资源
 
-[中文官网](https://cn.vuejs.org) / [官方文档](https://cn.vuejs.org/guide/introduction.html) / [API 参考](https://cn.vuejs.org/api) / [GitHub](https://github.com/vuejs)
-
+[中文官网](https://cn.vuejs.org) / [官方文档](https://cn.vuejs.org/guide/introduction.html) / [API 参考](https://cn.vuejs.org/api) / [GitHub](https://github.com/vuejs)  
 [演练场](https://sfc.vuejs.org/) / [示例](https://cn.vuejs.org/examples/) / [互动教程](https://cn.vuejs.org/tutorial/)
 
 ### 1.2. 定义
@@ -16,7 +24,7 @@ Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaS
 - 声明式：Vue 基于标准 HTML 拓展了一套模板语法，使得我们可以[声明式](../../../glossary/声明式与命令式编程.md)地描述最终输出的 HTML 和 JavaScript 状态之间的关系。
 - 组件化：Vue 实现了自己的组件模型，使我们可以将 UI 划分为独立的、可重用的部分，并且可以对每个部分进行单独的思考，封装自定义内容与逻辑。
 
-Vue 强调自己是一个 **渐进式的框架**，主要体现在 “灵活性” 和 “可以被逐步集成” 两个特点：
+Vue 强调自己是一个**渐进式的框架**，主要体现在 “灵活性” 和 “可以被逐步集成” 两个特点：
 
 - 灵活性：Vue 的功能覆盖了大部分前端开发常见的需求，但你可以根据自己的需求场景，灵活的只选择使用 Vue 的部分功能。
 - 可以被逐步集成：Vue 的核心知识在所有的功能中都是通用的。你可以根据实际的项目演进或个人能力进阶情况，逐步接入 Vue 的各项功能。
