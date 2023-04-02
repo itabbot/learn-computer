@@ -5,7 +5,7 @@
   - [1.2. 定义](#12-定义)
   - [1.3. 背景](#13-背景)
   - [1.4. 应用场景](#14-应用场景)
-  - [1.5. 实践](#15-实践)
+  - [1.5. 尝试](#15-尝试)
 - [2. 按需学习](#2-按需学习)
 - [3. 系统学习](#3-系统学习)
 
@@ -52,7 +52,9 @@ Vue 由尤雨溪（Evan You）创建，于 2014 年发布。尤雨溪之前在 G
   - 使用 [Quasar](https://quasar.dev) 用同一套代码同时开发桌面端和移动端应用。
   - 使用 Vue 的自定义渲染 API 来构建不同目标的渲染器，比如 [WebGL](https://troisjs.github.io/) 甚至是[终端命令行](https://github.com/vue-terminal/vue-termui)！
 
-### 1.5. 实践
+### 1.5. 尝试
+
+[最简单的 Vue 单页应用](https://github.com/itabbot/learn-vuejs/tree/main/quick-start/simplest-SPA)
 
 ## 2. 按需学习
 
