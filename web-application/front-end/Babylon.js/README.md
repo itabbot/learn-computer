@@ -19,6 +19,29 @@ Catuhe 的个人项目后来成为全职工作，也是他团队的主要关注�
 
 ### 1.4. 应用场景
 
+Babylon.js 可用于许多不同的平台：
+
+- PC 网页应用：PC 网页是 Babylon.js 的原生栖息地，它可以集成到几乎任何 Web 开发工作流中。
+- 移动端应用：
+  - [Ionic](https://ionicframework.com/) 是同时针对 Web、PWA 和移动平台的绝佳选择。
+  - 对于 [React Native](https://reactnative.dev/) 开发人员，[Babylon React Native](https://github.com/BabylonJS/BabylonReactNative) 专门设计用于尽可能简单地将 Babylon.js 功能直接整合到您的 React Native 应用程序中。
+  - 对于真正需要深入研究的开发人员，[Babylon Native](https://github.com/BabylonJS/BabylonNative) 支持移动平台并允许在您完全自定义的本机应用程序中使用 Babylon.js，从而可以完全控制应用程序的整个技术堆栈。
+- 桌面应用：
+  - [Ionic](https://ionicframework.com/) 允许以 PWA 的形式在桌面上创建 “可安装” 的应用程序。
+  - [Electron](https://www.electronjs.org/) 是本地桌面平台的绝佳选择。
+  - 需要完整平台访问权限或尝试将 Babylon.js 集成到现有本机应用程序中的开发人员可能最好使用 [Babylon Native](https://github.com/BabylonJS/BabylonNative)，它支持所有主要桌面平台并让开发人员完全控制技术堆栈。
+- 其他：VR 应用程序、服务器端应用程序、多设备应用程序等等。跨平台支持是 Babylon 的一个关键目标。
+
+Babylon.js 重点关注在游戏领域的推广和应用，同时也发展到其他多个领域，例如：
+
+- 电子商务
+- 虚拟世界
+- 医学教育
+- 时尚头像
+- 模拟历史遗迹
+- 产品设计
+- 城市地下基础设施建模
+
 ### 1.5. 尝试
 
 ## 2. 按需学习
