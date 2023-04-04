@@ -13,7 +13,7 @@
 
 ### 1.1. 相关资源
 
-[官方网站](https://www.babylonjs.com) / [官方文档](https://doc.babylonjs.com) / [完整功能列表](https://www.babylonjs.com/specifications/) / [GitHub](https://github.com/BabylonJS)  
+[官方网站](https://www.babylonjs.com) / [官方文档](https://doc.babylonjs.com) / [API 参考](https://doc.babylonjs.com/typedoc/modules/BABYLON) / [完整功能列表](https://www.babylonjs.com/specifications/) / [GitHub](https://github.com/BabylonJS)  
 [演练场](https://playground.babylonjs.com) / [沙箱](https://sandbox.babylonjs.com) / [演示](https://www.babylonjs.com/community)
 
 ### 1.2. 定义
@@ -52,6 +52,9 @@ Babylon.js 重点关注在游戏领域的推广和应用，同时也发展到其
 - 城市地下基础设施建模
 
 ### 1.5. 尝试
+
+- [最简单的 PC 网页应用（全局构建版）](https://github.com/itabbot/learn-babylonjs/tree/main/quick-start/simplest-pc-app-global)
+- [最简单的 PC 网页应用（ES 模块构建版）](https://github.com/itabbot/learn-babylonjs/tree/main/quick-start/simplest-pc-app-esm)
 
 ## 2. 按需学习
 
