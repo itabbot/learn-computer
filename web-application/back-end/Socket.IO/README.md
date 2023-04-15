@@ -50,10 +50,8 @@ Socket.IO 可以用于构建各种实时应用程序，以下是一些常见的�
 
 ### 1.5. 尝试
 
-<!-- - [最简单的聊天应用程序](https://github.com/itabbot/learn-socketio/tree/main/quick-start/simplest-chat) -->
+- [最简单的聊天应用程序](https://github.com/itabbot/learn-socketio/tree/main/server/quick-start/simplest-chat)
 
 ## 2. 按需学习
-
-<!-- - [koa](https://github.com/itabbot/learn-socketio/tree/main/on-demand/koa) -->
 
 ## 3. 系统学习
