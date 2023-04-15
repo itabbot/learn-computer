@@ -51,6 +51,7 @@ Socket.IO 可以用于构建各种实时应用程序，以下是一些常见的�
 ### 1.5. 尝试
 
 - [最简单的聊天应用程序](https://github.com/itabbot/learn-socketio/tree/main/server/quick-start/simplest-chat)
+- [整合 Koa 框架的聊天应用程序](https://github.com/itabbot/learn-socketio/tree/main/server/quick-start/koa-chat)
 
 ## 2. 按需学习
 
