@@ -46,9 +46,9 @@ JavaScript 可以应用在各种终端：
 JavaScript 也可以很好地应用在各个领域：
 
 1. 游戏开发：JavaScript 可以结合 HTML5 技术实现 2D 和 3D 游戏。
-2. 数据可视化开发：JavaScript 可以用于实现数据可视化，包括图表、数据地图等，提升数据呈现效果和交互性能。
-3. 人工智能和机器学习：JavaScript 也可以用于实现一些 AI 和机器学习相关的算法和模型，如 TensorFlow.js。
-4. 区块链和加密货币开发：JavaScript 是许多区块链和加密货币应用程序的编程语言，例如以太坊使用 Solidity 语言，其中一部分语法基于 JavaScript。
+2. 区块链和加密货币开发：JavaScript 是许多区块链和加密货币应用程序的编程语言，例如以太坊使用 Solidity 语言，其中一部分语法基于 JavaScript。
+3. 数据可视化开发：JavaScript 可以用于实现数据可视化，包括图表、数据地图等，提升数据呈现效果和交互性能。
+4. 人工智能和机器学习：JavaScript 也可以用于实现一些 AI 和机器学习相关的算法和模型，如 TensorFlow.js。
 
 ### 1.5. 尝试
 
