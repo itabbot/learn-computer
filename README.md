@@ -3,6 +3,7 @@
 - 后端
   - 库： [Socket.IO](./web-application/back-end/Socket.IO)
 - 前端
+  - 语言： [JavaScript](./web-application/front-end/JavaScript)
   - 框架： [Vue.js](./web-application/front-end/Vue.js)
   - 3D 引擎： [Babylon.js](./web-application/front-end/Babylon.js)
   - 库： [Socket.IO-Client](./web-application/front-end/Socket.IO-Client) / [Element Plus](./web-application/front-end/ElementPlus)
