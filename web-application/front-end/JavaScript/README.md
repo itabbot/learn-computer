@@ -35,7 +35,24 @@ JavaScript 的历史演化故事相当漫长而复杂，主要分为下方四个
 
 ### 1.4. 应用场景
 
+JavaScript 可以应用在各种终端：
+
+1. PC 网站：JavaScript 是浏览器端的脚本语言，可以用于实现动态网页、交互式表单、网页特效等，提升用户交互体验。
+2. 移动应用：JavaScript 还可以结合 React Native、Ionic、PhoneGap 等跨平台开发框架，使用同一套代码开发 iOS、Android 应用程序。
+3. 桌面应用程序：使用 Electron 技术，可使用 HTML、CSS、JavaScript 开发桌面应用程序。
+4. 服务器端：Node.js 是使用 JavaScript 构建的跨平台运行时环境，可以用于实现服务器端的 REST API、实时数据传输、Web 应用程序等。
+5. 浏览器插件和扩展程序：使用 JavaScript 可以开发浏览器插件和扩展程序，扩展和增强浏览器的功能。
+
+JavaScript 也可以很好地应用在各个领域：
+
+1. 游戏开发：JavaScript 可以结合 HTML5 技术实现 2D 和 3D 游戏。
+2. 数据可视化开发：JavaScript 可以用于实现数据可视化，包括图表、数据地图等，提升数据呈现效果和交互性能。
+3. 人工智能和机器学习：JavaScript 也可以用于实现一些 AI 和机器学习相关的算法和模型，如 TensorFlow.js。
+4. 区块链和加密货币开发：JavaScript 是许多区块链和加密货币应用程序的编程语言，例如以太坊使用 Solidity 语言，其中一部分语法基于 JavaScript。
+
 ### 1.5. 尝试
+
+略。
 
 ## 2. 按需学习
 
