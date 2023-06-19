@@ -22,6 +22,10 @@ TypeScript 是由微软开发和维护的一种开源的编程语言。它是 [J
 
 ### 1.3. 背景
 
+TypeScript 在经过微软两年的内部开发后，于 2012 年 10 月首次发布（0.8 版本）。Anders Hejlsberg 一直致力于 TypeScript 的开发，他是 C#的首席架构师，也是 Delphi 和 Turbo Pascal 的创建者。
+
+TypeScript 起源于 JavaScript 在微软及其外部客户中用于开发大型应用程序时遇到的缺点。处理复杂 JavaScript 代码带来的挑战使他们需要自定义工具来简化组件开发流程。
+
 ### 1.4. 应用场景
 
 ### 1.5. 尝试
