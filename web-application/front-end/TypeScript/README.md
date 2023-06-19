@@ -38,6 +38,9 @@ TypeScript 起源于 JavaScript 在微软及其外部客户中用于开发大型
 
 ### 1.5. 尝试
 
+- [最简单的 Node.js 应用](https://github.com/itabbot/learn-typescript/tree/main/quick-start/simplest-nodejs-app)
+- [最简单的 Vue.js 应用](https://github.com/itabbot/learn-typescript/tree/main/quick-start/simplest-vuejs-app)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
