@@ -18,7 +18,7 @@
 
 ### 1.2. 定义
 
-Node.js 是一个基于 [Google V8 引擎](https://v8.dev) 的 [JavaScript](../../front-end/JavaScript) 运行时环境，用于在服务器端运行 JavaScript 代码。
+Node.js 是一个基于 Google V8 引擎的 [JavaScript](../../front-end/JavaScript) 运行时环境，用于在服务器端运行 JavaScript 代码。
 
 Node.js 使用 npm（Node Package Manager）作为其默认的包管理工具。npm 提供了丰富的开源软件包供开发人员使用，并且可以方便地管理项目的依赖关系。
 
