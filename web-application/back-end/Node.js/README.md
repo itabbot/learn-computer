@@ -31,17 +31,11 @@ Node.js 采用非阻塞、事件驱动的单线程模型来提高性能：
 ### 1.3. 背景
 
 - 诞生： Node.js 最初由美国软件工程师 Ryan Dahl 于 2009 年编写，距第一个服务器端 JavaScript 环境 Netscape 的 LiveWire Pro Web 的推出大约 13 年。Node.js 最初的版本仅支持 Linux 和 Mac OS X。其开发和维护工作由 Dahl 本人领导，而他所在的 Joyent 公司也提供了赞助。
-
 - 引入 NPM： 2010 年 1 月，为 Node.js 环境引入了一个名为 npm 的包管理器。包管理器使程序员可以更轻松地发布和共享 Node.js 包的源代码，并旨在简化包的安装、更新和卸载。
-
 - 支持 Windows： 2011 年 6 月，微软和 Joyent 合作实现了 Node.js 的原生 Windows 版本。第一个支持 Windows 的 Node.js 版本于 2011 年 7 月发布。
-
 - 领导者变更： 2012 年 1 月，Dahl 辞职，提拔同事兼 npm 创建者 Isaac Schlueter 来管理该项目。 2014 年 1 月，Schlueter 宣布 Timothy J. Fontaine 将领导该项目。
-
 - 出现分支版本 io.js： 由于长期对 Joyent 的管理感到不满，Node.js 核心开发者 Fedor Indutny 在 2014 年 12 月制作了分支版本，并起名 “io.js”。与 Node.js 相对的是，io.js 采用开放管理模式进行管理，并计划始终采用最新版的 V8 引擎。
-
 - Node.js 和 io.js 合并： 为了在用户、厂商和开发者之间获取平衡，Node.js 基金会于 2015 年初成立。基金会得到了 IBM、Intel、微软、Joyent 等公司的支持。6 月，Node.js 和 io.js 开发者社区共同决定合并到 Node.js 基金会之下。同年 9 月，Node 4.0 发布，Node.js 和 io.js 正式合并。4.0 版引入了 ES6 的语言特性和“长期支持版本”的发布周期。到了 2016 年，io.js 宣布不再发布新版本，并建议开发者换回 Node.js。
-
 - 2019 年，JS 基金会和 Node.js 基金会合并成立 OpenJS 基金会。
 
 ### 1.4. 应用场景
