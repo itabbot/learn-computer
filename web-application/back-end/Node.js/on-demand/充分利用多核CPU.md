@@ -23,3 +23,6 @@ Node.js 的单线程事件循环模型在处理 I/O 密集型任务方面非常�
 - 多线程库： 尽管 Node.js 是单线程的，但可以使用一些允许多线程的库来利用多个 CPU 核心。例如，Node.js 中的 `node-addon-api` 和 `N-API` 允许开发者使用 C/C++ 编写扩展模块，在扩展模块中可以创建和管理多个线程。
 
 ## 3. 尝试
+
+- [最简单的 Cluster 模块应用程序](https://github.com/itabbot/learn-nodejs/tree/main/on-demand/simplest-cluster-app)
+- [最简单的 PM2 应用实践](https://github.com/itabbot/learn-nodejs/tree/main/on-demand/simplest-pm2-practice)
