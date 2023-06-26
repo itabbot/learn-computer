@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://www.mongodb.com) | [官方文档](https://www.mongodb.com/docs) | [GitHub](https://github.com/mongodb)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
