@@ -50,6 +50,8 @@ MongoDB 公司于 2017 年 10 月 20 日首次公开发行股票，并于 2021 �
 
 ### 1.5. 尝试
 
+- [使用 Docker 安装 MongoDB 社区版](https://github.com/itabbot/learn-mongodb/tree/main/quick-start/install-community-with-docker)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
