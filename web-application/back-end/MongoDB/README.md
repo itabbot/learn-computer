@@ -55,6 +55,6 @@ MongoDB 公司于 2017 年 10 月 20 日首次公开发行股票，并于 2021 �
 
 ## 2. 按需学习
 
-- [知识：使用 Node.js 的 ODM 工具 Mongoose](https://github.com/itabbot/learn-mongodb/tree/main/on-demand/use-mongoose-for-nodejs)
+- [知识：Node.js 的 ODM 工具 Mongoose](https://github.com/itabbot/learn-mongodb/tree/main/on-demand/mongoose-for-nodejs)
 
 ## 3. 系统学习
