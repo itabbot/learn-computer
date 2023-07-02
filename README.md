@@ -10,4 +10,4 @@
   - 3D 引擎： [Babylon.js](./web-application/front-end/Babylon.js)
   - 库： [Element Plus](./web-application/front-end/ElementPlus) / [Socket.IO-Client](./web-application/front-end/Socket.IO-Client)
 - 工具
-  - IDE： [WebStorm](./web-application/tools/WebStorm)
+  - IDE： [WebStorm](./web-application/tools/WebStorm) / [DataGrip](./web-application/tools/DataGrip)
