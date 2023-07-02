@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://www.jetbrains.com/zh-cn/datagrip) | [你懂的](https://3.jetbra.in)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
