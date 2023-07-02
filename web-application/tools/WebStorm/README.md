@@ -33,6 +33,8 @@ JetBrains 公司是一家软件开发工具公司，成立于 2000 年，他们�
 
 ### 1.4. 应用场景
 
+WebStorm 是一个专门用于 Web 开发的集成开发环境（IDE），专注于 JavaScript、Typescript、HTML 和 CSS 等 Web 开发技术。支持前端和后端开发，支持各种流行的框架、工具和环境比如 React、Vue、Angular、Babel、Webpack、Node.js 等等。
+
 ### 1.5. 尝试
 
 ## 2. 按需学习
