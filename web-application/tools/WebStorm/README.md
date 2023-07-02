@@ -27,6 +27,10 @@ WebStorm 是一个专门用于 Web 开发的集成开发环境（IDE），主要
 
 ### 1.3. 背景
 
+WebStorm 是由 JetBrains 公司开发，最早于 2010 年发布。WebStorm 是为了满足开发者对 JavaScript、HTML 和 CSS 等 Web 技术的需求而创建的。
+
+JetBrains 公司是一家软件开发工具公司，成立于 2000 年，他们提供的开发者工具在软件开发行业中被广泛使用和赞誉。他们的多个 IDE 产品根据不同的编程语言和技术领域提供了专门定制的功能和工具，以支持开发者在特定领域中的工作效率和质量。例如 IntelliJ IDEA（用于 Java）、PyCharm（用于 Python）、PhpStorm（用于 PHP）等。
+
 ### 1.4. 应用场景
 
 ### 1.5. 尝试
