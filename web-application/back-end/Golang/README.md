@@ -13,6 +13,9 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://go.dev) | [官方文档](https://go.dev/doc/) | [GitHub](https://github.com/golang)  
+[标准库](https://pkg.go.dev/std) | [包和模块](https://pkg.go.dev/) | [演练场](https://go.dev/play/)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
