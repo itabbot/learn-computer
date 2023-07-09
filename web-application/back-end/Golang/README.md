@@ -57,6 +57,9 @@ Go 语言的设计灵感来自于 C、C++、Java、Python 和其他一些编程�
 
 ### 1.5. 尝试
 
+- [学习官方推荐的 Go 示例（Go by Example）](https://github.com/itabbot/learn-golang/tree/main/quick-start/go-by-example)
+- [学习官方推荐的 Go Web 示例（Go Web Examples）](https://github.com/itabbot/learn-golang/tree/main/quick-start/go-web-examples)
+
 ## 2. 按需学习
 
 - [疑问：Go 的 HTTP 服务器是否使用单独 Goroutine 处理每个请求](https://github.com/itabbot/learn-golang/tree/main/on-demand/go-http-goroutine)
