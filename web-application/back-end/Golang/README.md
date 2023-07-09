@@ -19,7 +19,7 @@
 
 ### 1.2. 定义
 
-Go（由于它以前的域名 golang.org，所以又称 Golang）是 Google 开发的一种开源、[静态类型检查](../../../glossary/类型系统.md)、[强类型](../../../glossary/强类型和弱类型语言.md)、[编译型](../../../glossary/解释型、编译型与即时编译型语言.md)的编程语言。支持 Linux、macOS、Windows 等操作系统。具有以下特点：
+Go（由于它以前的域名 golang.org，所以也被称为 Golang）是 Google 开发的一种开源、[静态类型检查](../../../glossary/类型系统.md)、[强类型](../../../glossary/强类型和弱类型语言.md)、[编译型](../../../glossary/解释型、编译型与即时编译型语言.md)的编程语言。支持 Linux、macOS、Windows 等操作系统。具有以下特点：
 
 - [并发](../../../glossary/并发计算和并行计算.md)支持： goroutine 是 Golang 中的轻量级线程，多个 goroutine 可以在单个 Golang [线程](../../../glossary/进程与线程.md)中**并发**地运行。goroutine 的创建和销毁开销非常小、速度非常快，可以轻松创建成千上万个 goroutine 而不会导致系统负载过重。使用方法也非常简单，只需要使用关键字 “go” 就可以启动一个 goroutine。这些使得并发编程变得更加容易和高效。
 - [并行](../../../glossary/并发计算和并行计算.md)支持： goroutine 由 Golang 的运行时系统自行调度和管理（而不是由操作系统内核）。运行时系统默认会根据当前运行程序的机器的 CPU 核数来设置可以**并行**执行 goroutine 的最大操作系统线程数，并通过线程池和 goroutine 队列来调度 goroutine。进一步优化并发性能。
