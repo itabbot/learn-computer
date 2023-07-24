@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://expressjs.com/) | [中文官网](https://expressjs.com/zh-cn/) | [API 参考](https://expressjs.com/en/4x/api.html) | [GitHub](https://github.com/expressjs/express)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
