@@ -1,4 +1,4 @@
-# Express<!-- omit in toc -->
+# Express.js<!-- omit in toc -->
 
 - [1. 快速开始](#1-快速开始)
   - [1.1. 相关资源](#11-相关资源)
