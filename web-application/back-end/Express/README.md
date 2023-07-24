@@ -38,6 +38,9 @@ Express.js 项目最初于 2010 年开始，在当时，Node.js 刚刚开始流�
 
 ### 1.5. 尝试
 
+- [最简单的 Express.js API 服务](https://github.com/itabbot/learn-expressjs/tree/main/quick-start/simplest-api)
+- [最简单的 Express.js 前后端单体应用](https://github.com/itabbot/learn-expressjs/tree/main/quick-start/simplest-monolithic)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
