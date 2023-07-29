@@ -6,6 +6,7 @@
   - 框架： [Express.js](./web-application/back-end/Express.js)
   - 数据库： [MongoDB](./web-application/back-end/MongoDB)
   - 库： [Socket.IO](./web-application/back-end/Socket.IO)
+  - 操作系统： [Linux](./web-application/back-end/Linux)
 - 前端
   - 语言： [JavaScript](./web-application/front-end/JavaScript) / [TypeScript](./web-application/front-end/TypeScript)
   - 框架： [Vue.js](./web-application/front-end/Vue.js)
