@@ -18,6 +18,11 @@
 
 ### 1.2. 定义
 
+Linux 通常是指 “_Linux 操作系统_”，它是一个基于 “_Linux 内核_” 并加上支撑内核的系统工具和库所构成的自由、开源的 “[类 Unix](../../../glossary/类Unix操作系统.md)” 操作系统。通常情况下，Linux 被打包成供不同使用场景的 Linux 发行版。
+
+- Linux 内核： 是 Unix 操作系统的克隆，由 [Linus Torvalds](https://github.com/torvalds) 在网络上松散的黑客团队的协助下从头开始编写。它旨在符合 POSIX 和单一 UNIX 规范。
+- Linux 发行版： 为不同使用场景预先集成好的 Linux 操作系统。一般在直接安装后只需小幅度更改设置就可以使用。常见的发行版有 Ubuntu、Fedora、Arch、Mint、Red Hat、OpenSUSE、SUSE 等等。
+
 ### 1.3. 背景
 
 ### 1.4. 应用场景
