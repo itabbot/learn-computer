@@ -13,7 +13,7 @@
 
 ### 1.1. 相关资源
 
-[内核官网](https://www.kernel.org/) | [内核文档](https://docs.kernel.org) | [内核维基](https://www.wiki.kernel.org) | [GitHub](https://github.com/torvalds/linux)  
+[内核官网](https://www.kernel.org/) | [内核文档](https://docs.kernel.org) | [内核维基](https://www.wiki.kernel.org) | [内核源码](https://github.com/torvalds/linux) | [GNU](https://www.gnu.org)  
 [Ubuntu](https://ubuntu.com/) | [Fedora](https://fedoraproject.org/) | [Arch](https://archlinux.org/) | [Mint](https://linuxmint.com/) | [Debian](https://www.debian.org/) | [Red Hat](https://www.redhat.com/) | [OpenSUSE](https://www.opensuse.org/) | [SUSE](https://www.suse.com/)
 
 ### 1.2. 定义
@@ -29,7 +29,7 @@ Linux 通常是指 “_Linux 操作系统_”，它是一个基于 “_Linux 内
 
 - UNIX 操作系统： 是美国 AT&T 公司贝尔实验室在 1969 年完成的操作系统，于 1971 年首次发布。Unix 最初是自由和开放源代码的操作系统，在贝尔实验室内部和学术界广泛使用和传播。随着 Unix 的商业化和市场化，贝尔实验室开始将 Unix 作为专有产品销售，法律上不允许用户对其进行修改。
 - Minix 操作系统： Minix 由计算机科学教授 Andrew S. Tanenbaum 创建的类 UNIX 操作系统，于 1987 年发布。它是为了教授操作系统原理而设计的，只面向学生和其他想要学习操作系统原理的人，不允许被用作任何商业使用。
-- GNU 计划： 1983 年，Richard Stallman 创立 [GNU](https://www.gnu.org) 计划。这个计划的目标是发展一个完全自由的类 Unix 操作系统。Richard Stallman 在 1985 年发起自由软件基金会，并于 1989 年编写了 GNU 通用公共许可证（GNU GPL）。到了 20 世纪 90 年代初期，操作系统中所需的许多程序（例如库、编译器、文本编辑器、命令行 shell 和窗口系统）已经完成。但是诸如设备驱动程序、守护程序和称为 GNU Hurd 的内核都停滞不前且不完整。Linus Torvalds 曾说过如果 GNU 内核在 1991 年时可以用，他就不会自己去写一个。
+- GNU 计划： 1983 年，Richard Stallman 创立 GNU 计划。这个计划的目标是发展一个完全自由的类 Unix 操作系统。Richard Stallman 在 1985 年发起自由软件基金会，并于 1989 年编写了 GNU 通用公共许可证（GNU GPL）。到了 20 世纪 90 年代初期，操作系统中所需的许多程序（例如库、编译器、文本编辑器、命令行 shell 和窗口系统）已经完成。但是诸如设备驱动程序、守护程序和称为 GNU Hurd 的内核都停滞不前且不完整。Linus Torvalds 曾说过如果 GNU 内核在 1991 年时可以用，他就不会自己去写一个。
 - Linux 创立： Linux 的开发始于 1991 年，当时 Linus Torvalds 是一名赫尔辛基大学的计算机科学学生，他一直在使用 Minix 操作系统进行学习和工作，但是，他对 Minix 的一些限制和局限感到不满，例如 Minix 的代码无法自由地修改和分发，而且 Minix 功能相对较为简单。于是，Linus Torvalds 决定着手开发一个自己的操作系统，以满足自己的需求。他使用 Minix 操作系统作为参考和基础，但在设计上采用了自己的思路和方法。
 - Linux 的发展： 尽管早期版本的功能有限，Linux 仍迅速获得了开发者和用户。Linus Torvalds 于 1992 年发起将其原始许可证（禁止商业再分发）转换为 GNU 通用公共许可证 (GPLv2)，使得 Linux 成为一个真正意义上的自由和开放源代码的操作系统。GNU 项目很快也采用了 Linux 内核，当时的 BSD 尚未摆脱法律束缚，也没有参与免费操作系统内核的竞争。1992 年底，GNU 项目的开发者们开始将 GNU 工具集移植到 Linux 内核上，并在短时间内取得了一些成功。接着，他们开始将更多的 GNU 工具集和应用程序移植到 Linux 内核上，最终形成了一个完整的自由 Unix 操作系统。1993 年初，GNU/Linux 项目正式发布了第一个版本，即 Debian 0.91。
 - Linux 现状： 如今，在 Linus Torvalds 的带领下，众多开发人员共同参与开发和维护 Linux 内核。Richard Stallman 领导的自由软件基金会，继续提供大量支持 Linux 内核的 GNU 组件。一些个人和企业开发的第三方的非 GNU 组件也提供对 Linux 内核的支持。Linux 社区或企业都推出一些重要的 Linux 发行版。Linux 已经成为了全球最流行的服务器操作系统之一。
