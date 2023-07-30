@@ -53,6 +53,9 @@ Linux 操作系统具有广泛的应用场景，以下是其中一些典型的�
 
 ### 1.5. 尝试
 
+- [在 Windows 中使用 Docker 安装 Linux 操作系统](https://github.com/itabbot/learn-linux/tree/main/quick-start/install-linux-docker-win)
+- [完全使用 Linux 操作系统进行开发和工作](https://github.com/itabbot/learn-linux/tree/main/quick-start/develop-work-with-linux)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
