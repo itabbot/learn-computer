@@ -17,6 +17,14 @@
 
 ### 1.2. 定义
 
+RabbitMQ 是一款开源的消息代理软件（官方称之为 message broker），或称之为面向消息的中间件。服务器端使用 Erlang 语言编写，构建在开放电信平台框架（OTP）之上。有以下特点：
+
+- 支持多种消息协议： AMQP 0-9-1、AMQP 1.0、STOMP、MQTT、HTTP、WebSockets、RabbitMQ Streams 等。
+- 支持多种消息传递模式： 点对点、发布/订阅、主题、工作队列、延迟队列、请求/响应、远程过程调用等。
+- 服务端支持的操作系统： Linux、Windows、macOS、Solaris、FreeBSD、TRU64、VxWorks 等。
+- 客户端支持的编程语言： Python、Java、Ruby、PHP、C#、JavaScript、Go、Elixir、Objective-C、Swift 等等。
+- 其他特性： 支持消息确认、支持消息路由、支持持久化存储、高可用性、高可扩展性、提供管理监控UI、支持插件等等。
+
 ### 1.3. 背景
 
 ### 1.4. 应用场景
