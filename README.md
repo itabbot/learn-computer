@@ -5,7 +5,7 @@
     - 运行时： [Node.js](./web-application/back-end/Node.js)
     - 框架： [Express.js](./web-application/back-end/Express.js)
     - 数据库： [MongoDB](./web-application/back-end/MongoDB)
-    - 消息队列： [RabbitMQ](./web-application/back-end/RabbitMQ)
+    - 消息中间件： [RabbitMQ](./web-application/back-end/RabbitMQ)
     - 库： [Socket.IO](./web-application/back-end/Socket.IO)
     - 操作系统： [Linux](./web-application/back-end/Linux)
 - 前端
