@@ -37,7 +37,7 @@ WebStorm 是一个专门用于 Web 开发的集成开发环境（IDE），专注
 
 ### 1.5. 尝试
 
-- [安装和基本使用](./installation-and-basic-use.md)
+- [安装和基本使用](installation-and-basic-use.md)
 
 ## 2. 按需学习
 

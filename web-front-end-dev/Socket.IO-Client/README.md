@@ -2,7 +2,7 @@
 
 ## 1. 快速开始
 
-相关资源、定义、背景以及应用场景，请移步 [Socket.IO >>](../../back-end/Socket.IO)
+相关资源、定义、背景以及应用场景，请移步 [Socket.IO >>](../../back-end-dev/Socket.IO)
 
 尝试：
 

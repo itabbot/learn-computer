@@ -18,7 +18,7 @@
 
 ### 1.2. 定义
 
-MongoDB 是一个开源的、跨平台的、[面向文档](../../../glossary/文档数据库.md)的[非关系型](../../../glossary/关系型与非关系型数据库.md)数据库管理系统。使用 C++、Go、JavaScript、Python 等语言编写。MongoDB 以其灵活性、高可扩展性和高性能而受到广泛关注和采用。
+MongoDB 是一个开源的、跨平台的、[面向文档](../../glossary/文档数据库.md)的[非关系型](../../glossary/关系型与非关系型数据库.md)数据库管理系统。使用 C++、Go、JavaScript、Python 等语言编写。MongoDB 以其灵活性、高可扩展性和高性能而受到广泛关注和采用。
 
 MongoDB 社区版是免费的，适用于 Windows、Linux 和 macOS。
 

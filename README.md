@@ -1,17 +1,17 @@
-# 学习笔记
+# 学习计算机
 
-- 后端
-    - 语言： [Golang](./web-application/back-end/Golang)
-    - 运行时： [Node.js](./web-application/back-end/Node.js)
-    - 框架： [Express.js](./web-application/back-end/Express.js)
-    - 数据库： [MongoDB](./web-application/back-end/MongoDB)
-    - 消息中间件： [RabbitMQ](./web-application/back-end/RabbitMQ)
-    - 库： [Socket.IO](./web-application/back-end/Socket.IO)
-    - 操作系统： [Linux](./web-application/back-end/Linux)
-- 前端
-    - 语言： [JavaScript](./web-application/front-end/JavaScript) / [TypeScript](./web-application/front-end/TypeScript)
-    - 框架： [Vue.js](./web-application/front-end/Vue.js)
-    - 3D 引擎： [Babylon.js](./web-application/front-end/Babylon.js)
-    - 库： [Element Plus](./web-application/front-end/ElementPlus) / [Socket.IO-Client](./web-application/front-end/Socket.IO-Client)
+- 后端开发
+    - 语言： [Golang](back-end-dev/Golang)
+    - 运行时： [Node.js](back-end-dev/Node.js)
+    - 框架： [Express.js](back-end-dev/Express.js)
+    - 数据库： [MongoDB](back-end-dev/MongoDB)
+    - 消息中间件： [RabbitMQ](back-end-dev/RabbitMQ)
+    - 库： [Socket.IO](back-end-dev/Socket.IO)
+    - 操作系统： [Linux](back-end-dev/Linux)
+- Web前端开发
+    - 语言： [JavaScript](web-front-end-dev/JavaScript) / [TypeScript](web-front-end-dev/TypeScript)
+    - 框架： [Vue.js](web-front-end-dev/Vue.js)
+    - 3D 引擎： [Babylon.js](web-front-end-dev/Babylon.js)
+    - 库： [Element Plus](web-front-end-dev/ElementPlus) / [Socket.IO-Client](web-front-end-dev/Socket.IO-Client)
 - 工具
-    - IDE： [WebStorm](./web-application/tools/WebStorm) / [DataGrip](./web-application/tools/DataGrip)
+    - IDE： [WebStorm](tools/WebStorm) / [DataGrip](tools/DataGrip)
