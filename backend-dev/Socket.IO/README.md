@@ -18,7 +18,7 @@
 
 ### 1.2. 定义
 
-Socket.IO 是一个面向实时 Web 应用的 JavaScript 库，可以在客户端和服务器之间实现低延迟、双向和基于事件的通信。它有两个部分，一个是在浏览器中运行的客户端库（[Socket.IO-Client >>](../../web-front-end-dev/Socket.IO-Client)），和一个面向 Node.js 的服务端库（本文所介绍），两者有着几乎一样的 API。
+Socket.IO 是一个面向实时 Web 应用的 JavaScript 库，可以在客户端和服务器之间实现低延迟、双向和基于事件的通信。它有两个部分，一个是在浏览器中运行的客户端库（[Socket.IO-Client >>](../../web-frontend-dev/Socket.IO-Client)），和一个面向 Node.js 的服务端库（本文所介绍），两者有着几乎一样的 API。
 
 Socket.IO 建立在 WebSocket 协议之上，并提供额外的功能：
 
