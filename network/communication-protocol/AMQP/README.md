@@ -74,7 +74,7 @@ AMQP（准确来说应该是 AMQP 的实现）有以下应用场景：
 
 ### 1.5. 尝试
 
-参见 [RabbitMQ>>](../../../software-engineering/backend-dev/RabbitMQ#15-尝试)
+体验 AMQP 的前提是选择一个 AMQP 的实现。参见 [RabbitMQ>>](../../../software-engineering/backend-dev/RabbitMQ#15-尝试)
 
 ## 2. 按需学习
 
