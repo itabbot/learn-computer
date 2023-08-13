@@ -17,6 +17,7 @@
   - 工具
     - IDE： [WebStorm](software-engineering/tools/WebStorm) / [DataGrip](software-engineering/tools/DataGrip)
 - 计算机网络
+  - 通讯协议： [AMQP](network/communication-protocol/AMQP) / [STOMP](network/communication-protocol/STOMP) / [MQTT](network/communication-protocol/MQTT)
 
 <!-- - 基础理论 -->
 <!-- - 人工智能 -->
