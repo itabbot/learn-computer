@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://www.amqp.org) | [协议下载](https://www.amqp.org/resources/download) | [典型实现](https://www.amqp.org/about/examples)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
