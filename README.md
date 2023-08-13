@@ -1,17 +1,22 @@
 # 学习计算机
 
-- 后端开发
-  - 语言： [Golang](backend-dev/Golang)
-  - 运行时： [Node.js](backend-dev/Node.js)
-  - 框架： [Express.js](backend-dev/Express.js)
-  - 数据库： [MongoDB](backend-dev/MongoDB)
-  - 消息中间件： [RabbitMQ](backend-dev/RabbitMQ)
-  - 库： [Socket.IO](backend-dev/Socket.IO)
-  - 操作系统： [Linux](backend-dev/Linux)
-- Web 前端开发
-  - 语言： [JavaScript](web-frontend-dev/JavaScript) / [TypeScript](web-frontend-dev/TypeScript)
-  - 框架： [Vue.js](web-frontend-dev/Vue.js)
-  - 3D 引擎： [Babylon.js](web-frontend-dev/Babylon.js)
-  - 库： [Element Plus](web-frontend-dev/ElementPlus) / [Socket.IO-Client](web-frontend-dev/Socket.IO-Client)
-- 工具
-  - IDE： [WebStorm](tools/WebStorm) / [DataGrip](tools/DataGrip)
+- 软件工程
+  - 后端开发
+    - 语言： [Golang](software-engineering/backend-dev/Golang)
+    - 运行时： [Node.js](software-engineering/backend-dev/Node.js)
+    - 框架： [Express.js](software-engineering/backend-dev/Express.js)
+    - 数据库： [MongoDB](software-engineering/backend-dev/MongoDB)
+    - 消息中间件： [RabbitMQ](software-engineering/backend-dev/RabbitMQ)
+    - 库： [Socket.IO](software-engineering/backend-dev/Socket.IO)
+    - 操作系统： [Linux](software-engineering/backend-dev/Linux)
+  - Web 前端开发
+    - 语言： [JavaScript](software-engineering/web-frontend-dev/JavaScript) / [TypeScript](software-engineering/web-frontend-dev/TypeScript)
+    - 框架： [Vue.js](software-engineering/web-frontend-dev/Vue.js)
+    - 3D 引擎： [Babylon.js](software-engineering/web-frontend-dev/Babylon.js)
+    - 库： [Element Plus](software-engineering/web-frontend-dev/ElementPlus) / [Socket.IO-Client](software-engineering/web-frontend-dev/Socket.IO-Client)
+  - 工具
+    - IDE： [WebStorm](software-engineering/tools/WebStorm) / [DataGrip](software-engineering/tools/DataGrip)
+- 计算机网络
+
+<!-- - 基础理论 -->
+<!-- - 人工智能 -->

@@ -18,7 +18,7 @@
 
 ### 1.2. 定义
 
-JavaScript（简称 JS），是一种[高级](../../glossary/高级语言与低级语言.md)、具有[头等函数](../../glossary/头等函数.md)特性、多[范式](../../glossary/编程范式.md)、[解释型或即时编译型](../../glossary/解释型、编译型与即时编译型语言.md)的编程语言。它以作为开发 Web 页面的脚本语言而被人所熟知，但发展至今也被应用到了很多非浏览器的环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。
+JavaScript（简称 JS），是一种[高级](../../../glossary/高级语言与低级语言.md)、具有[头等函数](../../../glossary/头等函数.md)特性、多[范式](../../../glossary/编程范式.md)、[解释型或即时编译型](../../../glossary/解释型、编译型与即时编译型语言.md)的编程语言。它以作为开发 Web 页面的脚本语言而被人所熟知，但发展至今也被应用到了很多非浏览器的环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。
 
 JavaScript 不支持 I/O，比如网络、存储和图形等，但这些都可以由它的宿主环境提供支持，比如 Web 浏览器或 Node.js 运行时。
 
