@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://mqtt.org) | [标准规范](https://mqtt.org/mqtt-specification) | [官方推荐入门教程](https://mqtt.org/getting-started/) | [官方推荐软件](https://mqtt.org/software/)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
