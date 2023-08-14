@@ -37,6 +37,22 @@ MQTT，英文全称 Message Queuing Telemetry Transport，即 “消息队列遥
 
 ### 1.3. 背景
 
+发展历程：
+
+- 创建： 1999 年，MQTT 协议由 IBM 的 Andy Stanford-Clark 和 Arcom（现为 Cirrus Link）的 Ian Phillips 创建，并发布了第一个版本。最初的设计目标是为了解决石油管道监测系统的通信需求，以实现最小的电池损耗和带宽使用。
+- 成为国际标准： 2010 年，MQTT 成为 OASIS 标准。OASIS（Organization for the Advancement of Structured Information Standards）是一个国际标准化组织，MQTT 在其支持下成为了开放的、供公众使用的标准协议。
+- 加入 Eclipse Paho 项目： 2011 年，IBM 将 MQTT 提交给 Eclipse 基金会，成为 Eclipse Paho 项目的一部分。Eclipse Paho 项目的目标是提供开源的 MQTT 客户端实现，以推动 MQTT 在物联网领域的应用。
+- 版本 3.1.1 发布： 2013 年，MQTT 版本 3.1.1 发布。这个版本对协议进行了一些改进和修订，增强了安全性和可靠性。
+- 被 Facebook 采用： 2014 年：Facebook 宣布在其移动应用中采用 MQTT 作为实时通信协议。这一举措使得 MQTT 在移动应用领域得到更广泛的认可和应用。
+- 版本 5.0 发布： 2019 年，MQTT 版本 5.0 发布。MQTT 5.0 引入了一些新特性，如消息属性、请求/响应模式、流程控制等，进一步增强了协议的功能和灵活性。
+
+命名历史：
+
+- 最初，"MQ"在"MQTT"中来自 IBM 的 MQ（当时称为'MQSeries'）产品线，表示"Message Queue"（消息队列）。然而，MQTT 协议提供的是发布-订阅模式的消息传递，没有使用队列的概念。
+- 在 IBM 作为版本 3.1 发布的规范中，该协议被称为"MQ Telemetry Transport"（MQ 遥测传输）。这表明在起初的设计中，MQTT 的名称中的"MQ"确实是指消息队列。
+- 随后由 OASIS 发布的版本严格将协议称为"MQTT"，而不再加以解释。然而，OASIS 的技术委员会本身被命名为"OASIS Message Queuing Telemetry Transport Technical Committee"（OASIS 消息队列遥测传输技术委员会）。
+- 自 2013 年开始，“MQTT”不再代表任何特定的含义，成为一个独立的协议名称。
+
 ### 1.4. 应用场景
 
 ### 1.5. 尝试
