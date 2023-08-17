@@ -17,6 +17,10 @@
 
 ### 1.2. 定义
 
+RabbitMQ 是一款开源的消息代理软件（message broker），或称之为 “面向消息的中间件”。服务器端使用 Erlang 语言编写，构建在开放电信平台框架（OTP）之上，支持在大多数主流的操作系统上部署，并拥有多个官方客户端库。此外，RabbitMQ 社区也创建了许多客户端、适配器和工具，基本支持大部分流行的编程语言。
+
+RabbitMQ 最初是为了支持 “[AMQP](../../../network/communication-protocol/AMQP) 0-9-1” 而开发的，后来通过插件架构进行了扩展，以支持 AMQP 1.0、面向流文本的消息传递协议 STOMP、消息队列遥测传输协议 [MQTT](../../../network/communication-protocol/MQTT) 和 RabbitMQ Streams 协议等。
+
 ### 1.3. 背景
 
 ### 1.4. 应用场景
