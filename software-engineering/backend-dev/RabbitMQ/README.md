@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://www.rabbitmq.com) | [官方文档](https://www.rabbitmq.com/documentation.html) | [官方入门教程](https://www.rabbitmq.com/getstarted.html) | [GitHub](https://github.com/rabbitmq)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
