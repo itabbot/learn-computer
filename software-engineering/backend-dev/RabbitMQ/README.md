@@ -23,7 +23,13 @@ RabbitMQ 最初是为了支持 “[AMQP](../../../network/communication-protocol
 
 ### 1.3. 背景
 
+RabbitMQ 的开发始于 2006 年秋季，最初是由 LShift 公司的 Alexis Richardson 和 Matthias Radestock 领导的团队所创建。他们的目标是基于 AMQP（另参见 [AMQP 的发展历程>>](../../../network/communication-protocol/AMQP#13-背景)）开发一个能够处理大量消息并提供可靠消息传递的中间件。
+
+LShift 和 CohesiveFT 于 2007 年合资成立 Rabbit Technologies Ltd 公司，负责 RabbitMQ 项目。该公司于 2010 年 4 月被 VMware 公司的子公司 SpringSource 收购。该项目于 2013 年 5 月成为 Pivotal Software 的一部分。随后该项目于 2019 年 12 月被 VMWare 公司收购。
+
 ### 1.4. 应用场景
+
+参见 [AMQP 的应用场景>>](../../../network/communication-protocol/AMQP#14-应用场景) 或 [MQTT 的应用场景>>](../../../network/communication-protocol/MQTT#14-应用场景)
 
 ### 1.5. 尝试
 
