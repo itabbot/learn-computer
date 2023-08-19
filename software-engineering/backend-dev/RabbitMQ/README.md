@@ -34,6 +34,7 @@ LShift 和 CohesiveFT 于 2007 年合资成立 Rabbit Technologies Ltd 公司，
 ### 1.5. 尝试
 
 - [使用 Docker 安装 RabbitMQ 社区版（带管理界面）](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/install-community-with-docker)
+- [使用 Node.js 体验 RabbitMQ 的 “点对点” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/point-to-point)
 
 ## 2. 按需学习
 
