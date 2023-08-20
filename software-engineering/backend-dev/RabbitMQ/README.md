@@ -36,7 +36,15 @@ LShift 和 CohesiveFT 于 2007 年合资成立 Rabbit Technologies Ltd 公司，
 - [使用 Docker 安装 RabbitMQ 社区版（带管理界面）](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/install-community-with-docker)
 - [使用 Node.js 体验 RabbitMQ 的 “点对点” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/point-to-point)
 - [使用 Node.js 体验 RabbitMQ 的 “竞争消费者” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/competing-consumers)
+- [使用 Node.js 体验 RabbitMQ 的 “发布/订阅” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/publish-subscribe)
+- [使用 Node.js 体验 RabbitMQ 的 “消息路由”](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/routing)
+- [使用 Node.js 体验 RabbitMQ 的 “主题” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/topics)
+- [使用 Node.js 体验 RabbitMQ 的 “请求/回复” 消息传递模式](https://github.com/itabbot/learn-rabbitmq/tree/main/quick-start/request-reply)
 
 ## 2. 按需学习
+
+- [知识：RabbitMQ 的 “消息确认” 特性](https://github.com/itabbot/learn-rabbitmq/tree/main/on-demand/msg-acknowledgment)
+- [知识：RabbitMQ 的 “消息预取” 特性](https://github.com/itabbot/learn-rabbitmq/tree/main/on-demand/msg-prefetch)
+- [知识：RabbitMQ 的 “持久化” 特性](https://github.com/itabbot/learn-rabbitmq/tree/main/on-demand/msg-durability)
 
 ## 3. 系统学习
