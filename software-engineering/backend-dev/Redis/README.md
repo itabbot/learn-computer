@@ -58,6 +58,7 @@ Redis 具有广泛的应用场景，比如：
 ### 1.5. 尝试
 
 - [使用 Docker 安装 Redis](https://github.com/itabbot/learn-redis/tree/main/quick-start/install-in-docker)
+- [使用 Redis 命令行界面体验最简单的 Redis 操作](https://github.com/itabbot/learn-redis/tree/main/quick-start/experience-with-reddiscli)
 
 ## 2. 按需学习
 
