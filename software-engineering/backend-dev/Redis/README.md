@@ -53,7 +53,6 @@ Redis 具有广泛的应用场景，比如：
 - 消息队列（Message Queue）： Redis 的发布订阅功能和列表数据结构可用于构建高效的消息队列系统，实现异步消息传递和解耦应用组件。
 - 分布式锁（Distributed Locking）： Redis 的原子操作和分布式特性使其成为实现分布式锁的理想选择，用于协调多个进程或服务之间的互斥访问。
 - 实时统计和计数器（Real-time Analytics and Counting）： Redis 的计数器数据结构和持久化功能可用于实时统计和计数，如网站访问量统计、在线用户数等。
-
 - 实时排行榜（Leaderboards）： Redis 的有序集合（Sorted Set）可以用于存储和更新实时排行榜数据，如游戏中的玩家积分排名、社交媒体的热门帖子等。
 - 地理位置服务（Geospatial Services）： Redis 的地理位置数据类型（Geospatial）可以用于存储和查询地理位置信息，如附近的商店、地点推荐等。
 - 会话管理（Session Management）： Redis 可以用于存储和管理用户会话数据，如登录状态、购物车信息等，实现跨请求的会话共享。
