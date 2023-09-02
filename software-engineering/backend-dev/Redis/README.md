@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://redis.io) | [官方文档](https://redis.io/docs) | [指令参考](https://redis.io/commands) | [官方推荐资源](https://redis.io/resources/) | [GitHub](https://github.com/redis)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
