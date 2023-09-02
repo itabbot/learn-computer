@@ -35,6 +35,16 @@ Redis 采用 ANSI C 编写，适用于大多数 POSIX 系统，如 Linux、\*BSD
 
 ### 1.3. 背景
 
+Redis 是由意大利软件工程师 Salvatore Sanfilippo（昵称 [antirez](https://github.com/antirez)）于 2009 年创建，他的初衷是为了解决他的初创公司的一个日志收集系统 LLOOGG 的性能问题，后来慢慢就演变成了 Redis。
+
+发展阶段：
+
+- 初始阶段： Redis 最初由 Salvatore Sanfilippo 作为个人项目开发和维护，他将其开源并在开源社区中获得了广泛的关注和采用。
+- VMware 赞助： 2010 年 3 月，Sanfilippo 被 VMware 聘用并专注于 Redis 的开发。
+- Pivotal 赞助： 2013 年 5 月，Redis 得到了 Pivotal Software（VMware 的衍生公司）的赞助，这为 Redis 的持续发展提供了支持。
+- Redis Labs 赞助： 2015 年，Redis Labs 聘请了 Salvatore Sanfilippo。Redis Labs 是一家专注于 Redis 的商业公司，它为 Redis 提供了商业化支持、开发和推广，使其能够持续发展并提供各种增值功能和服务。尽管如此，Redis 仍然是一个开源项目，其源代码仍然可以在 GitHub 上进行访问和贡献。
+- 作者离开： 2020 年 6 月，Salvatore Sanfilippo 辞去了 Redis 维护者的职务，而 Redis Labs 则持续支持 Redis 的治理等工作。
+
 ### 1.4. 应用场景
 
 ### 1.5. 尝试
