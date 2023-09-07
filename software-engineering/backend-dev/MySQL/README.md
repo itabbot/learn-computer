@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://www.mysql.com) | [官方文档](https://dev.mysql.com/doc) | [官方开发者专区](https://dev.mysql.com) | [GitHub](https://github.com/mysql)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
