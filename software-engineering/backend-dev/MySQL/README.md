@@ -47,7 +47,6 @@ MySQL 最典型的应用场景之一是作为 Web 应用程序的后端数据库
 
 - [使用 Docker 安装 MySQL](https://github.com/itabbot/learn-mysql/tree/main/quick-start/install-in-docker)
 - [使用 MySQL 命令行界面体验最简单的 MySQL 操作](https://github.com/itabbot/learn-mysql/tree/main/quick-start/experience-with-cli)
-- [体验 MySQL 官方桌面客户端 Workbench](https://github.com/itabbot/learn-mysql/tree/main/quick-start/experience-workbench)
 
 ## 2. 按需学习
 
