@@ -11,7 +11,7 @@
     - 操作系统： [Linux](software-engineering/backend-dev/Linux)
   - Web 前端开发
     - 语言： [JavaScript](software-engineering/web-frontend-dev/JavaScript) / [TypeScript](software-engineering/web-frontend-dev/TypeScript)
-    - 框架： [Vue.js](software-engineering/web-frontend-dev/Vue.js)
+    - 框架： [Vue.js](software-engineering/web-frontend-dev/Vue.js) / [React](software-engineering/web-frontend-dev/React)
     - 3D 引擎： [Babylon.js](software-engineering/web-frontend-dev/Babylon.js)
     - 库： [Element Plus](software-engineering/web-frontend-dev/ElementPlus) / [Socket.IO-Client](software-engineering/web-frontend-dev/Socket.IO-Client)
   - 工具
