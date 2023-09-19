@@ -48,6 +48,9 @@ React 是由 Facebook 的软件工程师 Jordan Walke 在 2011 年创建的。�
 
 ### 1.5. 尝试
 
+- [使用官方脚手架创建一个 React 项目](https://github.com/itabbot/learn-reactjs/tree/main/quick-start/create-react-app)
+- [体验 React 的基本功能](https://github.com/itabbot/learn-reactjs/tree/main/quick-start/experience-basic-funcs)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
