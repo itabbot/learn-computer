@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://react.dev) | [中文官网](https://zh-hans.react.dev/) | [官方教程](https://react.dev/learn) | [官方参考文档](https://react.dev/reference/react) | [GitHub](https://github.com/facebook/react)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
