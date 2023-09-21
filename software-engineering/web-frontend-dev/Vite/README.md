@@ -13,9 +13,14 @@
 
 ### 1.1. 相关资源
 
-[官方网站](https://vitejs.dev) | [GitHub](https://github.com/vitejs) | [Awesome-Vite](https://github.com/vitejs/awesome-vite)
+[官方网站](https://vitejs.dev) | [中文官网](https://cn.vitejs.dev) | [GitHub](https://github.com/vitejs) | [Awesome-Vite](https://github.com/vitejs/awesome-vite)
 
 ### 1.2. 定义
+
+Vite（法语意为 “快速的”，发音 `/vit/`，发音同 “veet”）是一个面向 Web 开发的构建工具，旨在于提供快速的开发体验和高度优化的生产构建。
+
+- 快速的开发体验： 内置开发服务器并通过快速冷启动、模块级热重载、浏览器缓存等机制，提供即时的开发体验。
+- 高度优化的生产构建： 通过代码压缩、按需加载、浏览器兼容、自动预加载等机制，输出用于生产的高度优化过的静态资源。
 
 ### 1.3. 背景
 
