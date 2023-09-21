@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://vitejs.dev) | [GitHub](https://github.com/vitejs) | [Awesome-Vite](https://github.com/vitejs/awesome-vite)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
