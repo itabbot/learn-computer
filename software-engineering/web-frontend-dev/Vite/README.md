@@ -42,6 +42,9 @@ Vite 是[尤雨溪](https://github.com/yyx990803)（英文名 Evan You；Vue 的
 
 ### 1.5. 尝试
 
+- [使用官方脚手架创建一个最简单的 Vite 项目](https://github.com/itabbot/learn-vite/tree/main/quick-start/simplest-vite)
+- [使用官方脚手架创建一个 Vite + React 项目](https://github.com/itabbot/learn-vite/tree/main/quick-start/vite-react)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
