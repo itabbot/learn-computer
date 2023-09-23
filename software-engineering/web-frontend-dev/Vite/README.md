@@ -36,7 +36,7 @@ Vite 是[尤雨溪](https://github.com/yyx990803)（英文名 Evan You；Vue 的
 ### 1.4. 应用场景
 
 - Vue.js 应用开发： Vite 最初是为 Vue.js 设计的，因此在开发 Vue.js 应用时，Vite 是一个理想的选择，它提供了内置的 Vue.js 支持。
-- 其他框架应用开发： Vite 也提供了对 React、Vanilla、Preact、Lit、Svelte、Solid 等框架的支持。
+- 其他框架应用开发： Vite 也提供了对 React、Preact、Lit、Svelte、Solid 等框架的支持。
 - 静态网站生成器： Vite 可以与静态网站生成器如 VuePress、Gridsome 等配合使用，用于构建快速、现代化的静态网站。Vite 的快速构建能力可以提高静态网站生成过程的效率。
 - 原型开发和快速迭代： 由于 Vite 的快速冷启动和热模块重载功能，它非常适合用于原型开发和快速迭代。开发者可以快速创建原型，实时查看和调试变化，并迅速迭代和验证设计概念。
 
