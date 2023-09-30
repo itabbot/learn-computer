@@ -13,7 +13,7 @@
 
 ### 1.1. 相关资源
 
-[官方网站](https://koajs.com) | [GitHub](https://github.com/koajs)
+[官方网站](https://koajs.com) | [官方文档](https://github.com/koajs/koa/tree/master/docs) | [GitHub](https://github.com/koajs)
 
 ### 1.2. 定义
 
