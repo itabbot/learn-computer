@@ -46,6 +46,10 @@ Koa 是由 [TJ Holowaychuk](https://github.com/tj) 创建的，他是 Node.js �
 
 ### 1.5. 尝试
 
+- [最简单的 Koa API 服务](https://github.com/itabbot/learn-koa/tree/main/quick-start/simplest-api)
+- [最简单的 Koa 前后端单体应用](https://github.com/itabbot/learn-koa/tree/main/quick-start/simplest-monolithic)
+- [体验 Koa 的 “洋葱模型” 中间件系统](https://github.com/itabbot/learn-koa/tree/main/quick-start/onion-model-middleware)
+
 ## 2. 按需学习
 
 ## 3. 系统学习
