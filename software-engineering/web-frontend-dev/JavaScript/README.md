@@ -57,5 +57,6 @@ JavaScript 也可以很好地应用在各个领域：
 ## 2. 按需学习
 
 - [疑问：JavaScript 中的 for、for-in、for-of 语句有何异同](https://github.com/itabbot/learn-javascript/tree/main/on-demand/for-forin-forof)
+- [知识：JavaScript 中多种常用的模块化规范](https://github.com/itabbot/learn-javascript/tree/main/on-demand/modular-specifications)
 
 ## 3. 系统学习
