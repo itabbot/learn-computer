@@ -14,7 +14,7 @@
     - 框架： [Vue.js](software-engineering/web-frontend-dev/Vue.js) / [React.js](software-engineering/web-frontend-dev/React.js)
     - 构建工具： [Vite](software-engineering/web-frontend-dev/Vite)
     - 3D 引擎： [Babylon.js](software-engineering/web-frontend-dev/Babylon.js)
-    - 库： [Element Plus](software-engineering/web-frontend-dev/ElementPlus) / [Socket.IO-Client](software-engineering/web-frontend-dev/Socket.IO-Client)
+    - 库： [Element Plus](software-engineering/web-frontend-dev/ElementPlus) / [Ant Design](software-engineering/web-frontend-dev/AntDesign) / [Socket.IO-Client](software-engineering/web-frontend-dev/Socket.IO-Client)
   - 工具
     - IDE： [WebStorm](software-engineering/tools/WebStorm) / [DataGrip](software-engineering/tools/DataGrip)
 - 计算机网络
