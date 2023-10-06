@@ -62,8 +62,7 @@ Ant Design 在企业级中后台管理系统开发中通过提供丰富的组件
 ### 1.5. 尝试
 
 - [最简单的 Ant Design React 独立脚本应用](https://github.com/itabbot/learn-ant-design/tree/main/quick-start/simplest-standalone-script-app)
-- [使用官方脚手架创建一个 Ant Design React 项目](https://github.com/itabbot/learn-ant-design/tree/main/quick-start/create-react-app-antd)
-- [在 Vite 项目中使用 Ant Design React](https://github.com/itabbot/learn-ant-design/tree/main/quick-start/use-with-vite)
+- [最简单的 Vite + React + Ant Design 应用程序](https://github.com/itabbot/learn-ant-design/tree/main/quick-start/vite-react-ant-design)
 
 ## 2. 按需学习
 
