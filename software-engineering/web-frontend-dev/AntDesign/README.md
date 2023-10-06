@@ -23,8 +23,8 @@
 [Ant Design Pro（中后台套件）](https://github.com/ant-design/ant-design-pro)  
 [Ant Design Pro Components](https://github.com/ant-design/pro-components)  
 [Ant Design Mobile（移动端）](https://github.com/ant-design/ant-design-mobile)  
-[Ant Design Mini（小程序）](https://github.com/ant-design/ant-design-mini)  
-[Ant Design Landing（产品首页）](https://github.com/ant-design/ant-design-landing)  
+[Ant Design Mini（支付宝小程序）](https://github.com/ant-design/ant-design-mini)  
+[Ant Design Landing（落地页）](https://github.com/ant-design/ant-design-landing)  
 [Ant Design Charts（图表）](https://github.com/ant-design/ant-design-charts)  
 [Ant Motion（动效）](https://github.com/ant-design/ant-motion/)
 
@@ -50,6 +50,14 @@ Ant Design 是由阿里巴巴集团前端团队创建。在过去，阿里巴巴
 4. 持续发展： 2018 年至今，Ant Design 不断推出新版本，引入新的组件和功能，改进设计和开发工具，以适应不断变化的技术和用户需求。Ant Design 社区逐渐壮大，吸引了全球范围内的开发者参与和贡献。
 
 ### 1.4. 应用场景
+
+Ant Design 在企业级中后台管理系统开发中通过提供丰富的组件、设计规范和工具，能够帮助开发者快速构建出美观、功能丰富、易用的用户界面，提升开发效率和用户体验。
+
+- 移动应用程序： Ant Design Mobile 构建了一整套适用于移动端的 UI 组件，包括常见的导航、按钮、列表、表单、弹窗、图标等。这些组件都经过精心设计和开发，具有优雅的外观和良好的交互效果，可用于构建跨平台的移动应用程序。
+- 数据可视化： Ant Design Charts 是 Ant Design 团队开发的一套基于 G2Plot 构建的图表组件库。它提供了丰富的图表类型和交互功能，可用于数据可视化和图表展示。
+- 支付宝小程序： Ant Design Mini 是支付宝小程序 UI 组件库，遵循 Ant Design 规范。
+- 落地页： Ant Design Landing 是一套基于 Ant Design 的落地页（Landing Page）模板和解决方案。拥有丰富的各类落地页模板，下载模板代码包，即可快速使用，也可使用落地页编辑器，快速搭建一个专属落地页。
+- 网页动画效果： Ant Motion 是 Ant Design 团队开发的一套基于 React 和动画技术的动效库，用于为 Web 应用和移动应用添加交互性和动态效果。
 
 ### 1.5. 尝试
 
