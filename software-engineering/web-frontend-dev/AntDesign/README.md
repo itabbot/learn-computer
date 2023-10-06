@@ -66,6 +66,4 @@ Ant Design 在企业级中后台管理系统开发中通过提供丰富的组件
 
 ## 2. 按需学习
 
-- [疑问：如何实现 Ant Design React 的按需加载和打包](https://github.com/itabbot/learn-ant-design/tree/main/on-demand/use-modularized-antd)
-
 ## 3. 系统学习
