@@ -46,8 +46,7 @@ Playwright 在以下典型场景中广泛应用：
 
 ### 1.5. 尝试
 
-- [构建 Playwright 工程，并在无头模式以及 UI 模式下运行测试](https://github.com/itabbot/learn-playwright/tree/main/quick-start/init)
-- [记录在浏览器上的操作并生成对应的代码脚本](https://github.com/itabbot/learn-playwright/tree/main/quick-start/code-gen)
+- [初始化 Playwright 项目，并体验其基本功能](https://github.com/itabbot/learn-playwright/tree/main/quick-start/init)
 
 ## 2. 按需学习
 
