@@ -13,6 +13,8 @@
 
 ### 1.1. 相关资源
 
+[官方网站](https://playwright.dev) | [官方文档](https://playwright.dev/docs/intro) | [API 参考](https://playwright.dev/docs/api/class-playwright) | [GitHub](https://github.com/microsoft/playwright)
+
 ### 1.2. 定义
 
 ### 1.3. 背景
