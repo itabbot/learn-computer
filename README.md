@@ -16,6 +16,8 @@
     - 3D 引擎： [Babylon.js](software-engineering/web-frontend-dev/Babylon.js)
     - 组件库： [Ant Design](software-engineering/web-frontend-dev/AntDesign) / [Element Plus](software-engineering/web-frontend-dev/ElementPlus)
     - 库： [Socket.IO-Client](software-engineering/web-frontend-dev/Socket.IO-Client)
+  - 测试
+    - 端到端： [Playwright](software-engineering/testing/Playwright)
   - 工具
     - IDE： [WebStorm](software-engineering/tools/WebStorm) / [DataGrip](software-engineering/tools/DataGrip)
 - 计算机网络
